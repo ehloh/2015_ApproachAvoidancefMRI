@@ -1,0 +1,1566 @@
+==============================================================
+START Timestamp: 29-Mar-2016 19:55 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 123)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',123,0)">line 123</a>)
+
+} 
+a1c_hierarfit_models
+{Error: <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',68,7)">File: a1c_hierarfit_models.m Line: 68 Column: 7
+</a>Unexpected MATLAB operator.
+} 
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:56 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 127)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',127,0)">line 127</a>)
+
+} 
+clear
+pack
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:56 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+8 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+    'bi01'
+    'bpi01'
+    'bmi01'
+    'bpmi01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [19:56] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.5857       nu:  0.29885)
+   Calculating BIC via samples
+Model 2 - bp01       [19:58] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.4     -3.5       nu:  0.41      1.2)
+         Attempting group fit (within EV): 20th try         (mu:  -2.4     -3.4       nu:  0.41      1.1)
+   Group converged on 20th try         (mu:  -2.3771     -3.4134       nu:  0.41258      1.1271)
+   Calculating BIC via samples
+Model 3 - bm01       [20:0] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.8926 -3.5678]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.5299 -2.9561]
+     nu: [0.3693 0.3407]
+    nui: [2x2 double]
+
+   Group converged on 8th try         (mu:  -2.5388     -2.9513       nu:  0.37989     0.24133)
+   Calculating BIC via samples
+Model 4 - bpm01       [20:2] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [7.1987 -6.6346 -29.0824]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [4.8130 -4.1609 -1.7040]
+     nu: [570.7129 1.3438e+03 162.2909]
+    nui: [3x3 double]
+
+Couldn't fit p01_GV at all for  bpm01 (>3 attempts)
+Couldn't fit p18_MS at all for  bpm01 (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.9     -2.9       nu:  0.5      1.2      0.1)
+   Group converged on 17th try         (mu:  -2.3214     -3.9241     -2.9006       nu:  0.49773      1.2411      0.0999)
+   Calculating BIC via samples
+Model 5 - bi01       [20:5] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.7796 -0.2623]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.5927 -0.0289]
+     nu: [0.3889 0.0545]
+    nui: [2x2 double]
+
+   Group converged on 5th try         (mu:  -2.6221   -0.032645       nu:  0.36384    0.052957)
+   Calculating BIC via samples
+Model 6 - bpi01       [20:7] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [2.1646 -3.7932 -0.3341]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-2.0235 -5.4346 -0.0300]
+     nu: [183.0739 655.0826 0.0551]
+    nui: [3x3 double]
+
+         Attempting group fit (within EV): 10th try         (mu:  -2.4       -4   -0.024       nu:  0.62      1.2    0.057)
+   Group converged on 19th try         (mu:  -2.3831     -3.9153   -0.023658       nu:  0.62501      1.2007    0.057316)
+   Calculating BIC via samples
+Model 7 - bmi01       [20:10] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.5629 -1.9495 -1.5015]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-2.5918 -1.8270 -0.3864]
+     nu: [0.4169 0.4240 0.1438]
+    nui: [3x3 double]
+
+   Group converged on 6th try         (mu:  -2.5331     -2.0497    -0.32023       nu:  0.33007     0.46333     0.13839)
+   Calculating BIC via samples
+Model 8 - bpmi01       [20:12] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [0.8802 4.9754 -0.3981 -0.2620]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+
+     NewZ:
+     mu: [-1.9833 -5.8249 -1.5768 -0.4667]
+     nu: [1.2761 529.0832 0.8227 0.2349]
+    nui: [4x4 double]
+
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -4.1     -2.1    -0.31       nu:  0.62      1.1     0.48     0.16)
+   Group converged on 17th try         (mu:  -2.2724     -4.0821     -2.0681    -0.30728       nu:  0.61869      1.1264     0.48467     0.16294)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 29-Mar-2016 20:16 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================
+==============================================================
+START Timestamp: 29-Mar-2016 21:25 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:25] ##############
+Requested iteration #1 --------------------------------------------------------
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('sendmail', 'C:\Program Files\MATLAB\R2013b\toolbox\matlab\iofun\sendmail.m', 165)" style="font-weight:bold">sendmail</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\matlab\iofun\sendmail.m',165,0)">line 165</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('f_sendemail', 'C:\Users\e.loh\Documents\MATLAB\f_sendemail.m', 71)" style="font-weight:bold">f_sendemail</a> (<a href="matlab: opentoline('C:\Users\e.loh\Documents\MATLAB\f_sendemail.m',71,0)">line 71</a>)
+sendmail(emailto,subject,message)
+
+In <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 263)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',263,0)">line 263</a>)
+                            try f_sendemail('kurzlich', ['[' ThisPC ']
+                            Hierarfit script crashed - last 1000 errors
+                            have been the same'], ' ',1); end
+} 
+a1c_hierarfit_models_RUN
+==============================================================
+START Timestamp: 29-Mar-2016 21:26 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+192 Models:
+    'b01'
+    'b02_f'
+    'b03_e'
+    'b04_uw'
+    'b05_vw'
+    'b06_ow'
+    'b07_fe'
+    'b08_fuw'
+    'b09_fvw'
+    'b10_fow'
+    'b11_euw'
+    'b12_evw'
+    'b13_eow'
+    'b14_feuw'
+    'b15_fevw'
+    'b16_feow'
+    'b17_yw'
+    'b18_fyw'
+    'b19_eyw'
+    'b20_feyw'
+    'b21_kw'
+    'b22_fkw'
+    'b23_ekw'
+    'b24_fekw'
+    'bp01'
+    'bp02_f'
+    'bp03_e'
+    'bp04_uw'
+    'bp05_vw'
+    'bp06_ow'
+    'bp07_fe'
+    'bp08_fuw'
+    'bp09_fvw'
+    'bp10_fow'
+    'bp11_euw'
+    'bp12_evw'
+    'bp13_eow'
+    'bp14_feuw'
+    'bp15_fevw'
+    'bp16_feow'
+    'bp17_yw'
+    'bp18_fyw'
+    'bp19_eyw'
+    'bp20_feyw'
+    'bp21_kw'
+    'bp22_fkw'
+    'bp23_ekw'
+    'bp24_fekw'
+    'bm01'
+    'bm02_f'
+    'bm03_e'
+    'bm04_uw'
+    'bm05_vw'
+    'bm06_ow'
+    'bm07_fe'
+    'bm08_fuw'
+    'bm09_fvw'
+    'bm10_fow'
+    'bm11_euw'
+    'bm12_evw'
+    'bm13_eow'
+    'bm14_feuw'
+    'bm15_fevw'
+    'bm16_feow'
+    'bm17_yw'
+    'bm18_fyw'
+    'bm19_eyw'
+    'bm20_feyw'
+    'bm21_kw'
+    'bm22_fkw'
+    'bm23_ekw'
+    'bm24_fekw'
+    'bpm01'
+    'bpm02_f'
+    'bpm03_e'
+    'bpm04_uw'
+    'bpm05_vw'
+    'bpm06_ow'
+    'bpm07_fe'
+    'bpm08_fuw'
+    'bpm09_fvw'
+    'bpm10_fow'
+    'bpm11_euw'
+    'bpm12_evw'
+    'bpm13_eow'
+    'bpm14_feuw'
+    'bpm15_fevw'
+    'bpm16_feow'
+    'bpm17_yw'
+    'bpm18_fyw'
+    'bpm19_eyw'
+    'bpm20_feyw'
+    'bpm21_kw'
+    'bpm22_fkw'
+    'bpm23_ekw'
+    'bpm24_fekw'
+    'bi01'
+    'bi02_f'
+    'bi03_e'
+    'bi04_uw'
+    'bi05_vw'
+    'bi06_ow'
+    'bi07_fe'
+    'bi08_fuw'
+    'bi09_fvw'
+    'bi10_fow'
+    'bi11_euw'
+    'bi12_evw'
+    'bi13_eow'
+    'bi14_feuw'
+    'bi15_fevw'
+    'bi16_feow'
+    'bi17_yw'
+    'bi18_fyw'
+    'bi19_eyw'
+    'bi20_feyw'
+    'bi21_kw'
+    'bi22_fkw'
+    'bi23_ekw'
+    'bi24_fekw'
+    'bpi01'
+    'bpi02_f'
+    'bpi03_e'
+    'bpi04_uw'
+    'bpi05_vw'
+    'bpi06_ow'
+    'bpi07_fe'
+    'bpi08_fuw'
+    'bpi09_fvw'
+    'bpi10_fow'
+    'bpi11_euw'
+    'bpi12_evw'
+    'bpi13_eow'
+    'bpi14_feuw'
+    'bpi15_fevw'
+    'bpi16_feow'
+    'bpi17_yw'
+    'bpi18_fyw'
+    'bpi19_eyw'
+    'bpi20_feyw'
+    'bpi21_kw'
+    'bpi22_fkw'
+    'bpi23_ekw'
+    'bpi24_fekw'
+    'bmi01'
+    'bmi02_f'
+    'bmi03_e'
+    'bmi04_uw'
+    'bmi05_vw'
+    'bmi06_ow'
+    'bmi07_fe'
+    'bmi08_fuw'
+    'bmi09_fvw'
+    'bmi10_fow'
+    'bmi11_euw'
+    'bmi12_evw'
+    'bmi13_eow'
+    'bmi14_feuw'
+    'bmi15_fevw'
+    'bmi16_feow'
+    'bmi17_yw'
+    'bmi18_fyw'
+    'bmi19_eyw'
+    'bmi20_feyw'
+    'bmi21_kw'
+    'bmi22_fkw'
+    'bmi23_ekw'
+    'bmi24_fekw'
+    'bpmi01'
+    'bpmi02_f'
+    'bpmi03_e'
+    'bpmi04_uw'
+    'bpmi05_vw'
+    'bpmi06_ow'
+    'bpmi07_fe'
+    'bpmi08_fuw'
+    'bpmi09_fvw'
+    'bpmi10_fow'
+    'bpmi11_euw'
+    'bpmi12_evw'
+    'bpmi13_eow'
+    'bpmi14_feuw'
+    'bpmi15_fevw'
+    'bpmi16_feow'
+    'bpmi17_yw'
+    'bpmi18_fyw'
+    'bpmi19_eyw'
+    'bpmi20_feyw'
+    'bpmi21_kw'
+    'bpmi22_fkw'
+    'bpmi23_ekw'
+    'bpmi24_fekw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models_RUN', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models_RUN.m', 122)" style="font-weight:bold">a1c_hierarfit_models_RUN</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models_RUN.m',122,0)">line 122</a>)
+} 
+a1c_hierarfit_models_RUNMAC

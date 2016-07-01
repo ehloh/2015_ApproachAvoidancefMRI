@@ -1,0 +1,934 @@
+==============================================================
+START Timestamp: 31-Mar-2016 16:17 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:17] ##############
+Subject 1  (p01_GV)
+{Undefined function or variable 'er'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 198)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',198,0)">line 198</a>)
+                er
+} 
+wi.startpar
+
+ans =
+
+  -0.4000 + 0.0000i   1.9000 + 0.0000i  -1.5000 - 3.1000i
+
+wi.startpar=nan(1,details.models{m,2});
+wi.startpar
+
+ans =
+
+   NaN   NaN   NaN
+
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:18 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:18] ##############
+Subject 1  (p01_GV)
+{Undefined function or variable 'er'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 198)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',198,0)">line 198</a>)
+                er
+} 
+wi.startpar
+
+ans =
+
+  -7.6000 + 0.0000i   1.9000 + 0.0000i  -1.5000 - 3.1000i
+
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:20 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:20] ##############
+Subject 1  (p01_GV)
+{Undefined function or variable 'er'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 185)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',185,0)">line 185</a>)
+                        er
+} 
+wi.startpar
+
+ans =
+
+   NaN   NaN   NaN
+
+wi.startpar
+
+ans =
+
+   NaN   NaN   NaN
+
+openvar                         wi.startpar
+openvar                         ans
+details.models{m,3}{p}
+
+ans =
+
+b
+
+details.models{m,3}
+
+ans = 
+
+    'b'
+    'i'
+    'o'
+
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:23 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:23] ##############
+Subject 1  (p01_GV)
+{Undefined function or variable 'er'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 191)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',191,0)">line 191</a>)
+                        er
+} 
+details.models{m,2}
+
+ans =
+
+     3
+
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:23 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:23] ##############
+Subject 1  (p01_GV)
+{Undefined function or variable 'er'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 191)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',191,0)">line 191</a>)
+                        er
+} 
+x
+
+x =
+
+    15
+
+x=details.models{m,6}{p}(i)
+
+x =
+
+    0.4000
+
+eval([details.models{m,5}{p} ])
+
+ans =
+
+   1.4663 - 3.1416i
+
+x
+
+x =
+
+    0.4000
+
+disp( eval([details.models{m,5}{p} ]));
+   1.4663 - 3.1416i
+
+x=details.models{m,6}{p}(i); 
+                        disp( eval([details.models{m,5}{p} ]));
+   1.4663 - 3.1416i
+
+x=-0.4:0.1:0.4; 
+                        
+                        disp( eval([details.models{m,5}{p} ]));
+  Columns 1 through 3
+
+  -1.4663 - 3.1416i  -2.3979 - 3.1416i  -2.1972 + 0.0000i
+
+  Columns 4 through 6
+
+  -0.8473 + 0.0000i   0.0000 + 0.0000i   0.8473 + 0.0000i
+
+  Columns 7 through 9
+
+   2.1972 + 0.0000i   2.3979 - 3.1416i   1.4663 - 3.1416i
+
+eval(['a=' details.models{m,5}{p} ';']))
+ eval(['a=' details.models{m,5}{p} ';']))
+                                        |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+eval(['a=' details.models{m,5}{p} ';'])
+openvar a
+eval(['a=' details.models{m,5}{p} ';']); a=a';
+x
+
+x =
+
+  Columns 1 through 6
+
+   -0.4000   -0.3000   -0.2000   -0.1000         0    0.1000
+
+  Columns 7 through 9
+
+    0.2000    0.3000    0.4000
+
+eval(['a=' details.models{m,5}{p} ';']); a=[x' a'];
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:27 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.4     to    0.4
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:27] ##############
+Subject 1  (p01_GV)
+{Error using <a href="matlab:helpUtils.errorDocCallback('fminusub', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m', 17)" style="font-weight:bold">fminusub</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m',17,0)">line 17</a>)
+Objective function is undefined at initial point. Fminunc
+cannot continue.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('fminunc', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m', 419)" style="font-weight:bold">fminunc</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m',419,0)">line 419</a>)
+   [x,FVAL,GRAD,HESSIAN,EXITFLAG,OUTPUT] = fminusub(funfcn,x,
+   ...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 200)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',200,0)">line 200</a>)
+                    [wi.par, wi.L, wi.exit, wi.output,
+                    wi.grad,
+                    wi.hessians]=fminunc(@(x)f_nllsoftmaxTEST(x,
+                    {details.models{m,1} ws.data
+                    details.fixedpar col},0,0), wi.startpar,
+                    w.options);
+} 
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:27 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:27] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 2 - bpio01       [16:27] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.2067)
+   Correcting for softmax base ==0 (beta=19.2067)
+   Correcting for softmax base ==0 (beta=19.2067)
+   Correcting for softmax base ==0 (beta=19.2067)
+   Correcting for softmax base ==0 (beta=19.2067)
+Subject 2  (p02_YY)
+Model 3 - bpio04_uw       [16:27] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 4 - bpio08_fuw       [16:27] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+   Correcting for softmax base ==0 (beta=19.9974)
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('bio01', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bio01.m', 93)" style="font-weight:bold">bio01</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bio01.m',93,0)">line 93</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('bpio01', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bpio01.m', 21)" style="font-weight:bold">bpio01</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bpio01.m',21,0)">line 21</a>)
+[ V ] = bio01(x, modelinput);
+
+In <a href="matlab:helpUtils.errorDocCallback('bpio08_fuw', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\bpio08_fuw.m', 34)" style="font-weight:bold">bpio08_fuw</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\bpio08_fuw.m',34,0)">line 34</a>)
+[ V ] = bpio01(x, {modname data, fPar,col});
+
+In <a href="matlab:helpUtils.errorDocCallback('f_nllsoftmax_lapseTEST', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\f_nllsoftmax_lapseTEST.m', 37)" style="font-weight:bold">f_nllsoftmax_lapseTEST</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\f_nllsoftmax_lapseTEST.m',37,0)">line 37</a>)
+eval(['V=' ValueFxn '(x, {[] data, fPar,col});'])
+
+In
+<a href="matlab:helpUtils.errorDocCallback('@(x)f_nllsoftmax_lapseTEST(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)', '', 0)" style="font-weight:bold">@(x)f_nllsoftmax_lapseTEST(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)</a>
+
+
+In finDiffEvalAndChkErr (line 26)
+
+
+In finitedifferences (line 128)
+
+
+In lineSearch>sectioningPhase (line 302)
+
+
+In lineSearch (line 73)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('fminusub', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m', 203)" style="font-weight:bold">fminusub</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m',203,0)">line 203</a>)
+    [alpha,f,grad,exitflagLnSrch,funcCountLnSrch,faultTolStruct]
+    = ...
+
+In <a href="matlab:helpUtils.errorDocCallback('fminunc', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m', 419)" style="font-weight:bold">fminunc</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m',419,0)">line 419</a>)
+   [x,FVAL,GRAD,HESSIAN,EXITFLAG,OUTPUT] = fminusub(funfcn,x,
+   ...
+
+In <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 198)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',198,0)">line 198</a>)
+                    [wi.par, wi.L, wi.exit, wi.output,
+                    wi.grad,
+                    wi.hessians]=fminunc(@(x)f_nllsoftmax_lapseTEST(x,
+                    {details.models{m,1} ws.data
+                    details.fixedpar col},0,0), wi.startpar,
+                    w.options);
+} 
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:27 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bjio01'
+    'bpjio01'
+    'bpjio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bjio01       [16:27] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=19.9189)
+   Correcting for softmax base ==0 (beta=13.7232)
+Subject 2  (p02_YY)
+Model 2 - bpjio01       [16:27] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('bpjio01', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bpjio01.m', 23)" style="font-weight:bold">bpjio01</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\1 Value functions\misc\Base\bpjio01.m',23,0)">line 23</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('f_nllsoftmax_lapseTEST', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\f_nllsoftmax_lapseTEST.m', 37)" style="font-weight:bold">f_nllsoftmax_lapseTEST</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\f_nllsoftmax_lapseTEST.m',37,0)">line 37</a>)
+eval(['V=' ValueFxn '(x, {[] data, fPar,col});'])
+
+In
+<a href="matlab:helpUtils.errorDocCallback('@(x)f_nllsoftmax_lapseTEST(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)', '', 0)" style="font-weight:bold">@(x)f_nllsoftmax_lapseTEST(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)</a>
+
+
+In finDiffEvalAndChkErr (line 26)
+
+
+In finitedifferences (line 128)
+
+
+In lineSearch>sectioningPhase (line 302)
+
+
+In lineSearch (line 73)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('fminusub', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m', 203)" style="font-weight:bold">fminusub</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\private\fminusub.m',203,0)">line 203</a>)
+    [alpha,f,grad,exitflagLnSrch,funcCountLnSrch,faultTolStruct]
+    = ...
+
+In <a href="matlab:helpUtils.errorDocCallback('fminunc', 'C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m', 419)" style="font-weight:bold">fminunc</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013b\toolbox\optim\optim\fminunc.m',419,0)">line 419</a>)
+   [x,FVAL,GRAD,HESSIAN,EXITFLAG,OUTPUT] = fminusub(funfcn,x,
+   ...
+
+In <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m', 198)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1a_fit_models.m',198,0)">line 198</a>)
+                    [wi.par, wi.L, wi.exit, wi.output,
+                    wi.grad,
+                    wi.hessians]=fminunc(@(x)f_nllsoftmax_lapseTEST(x,
+                    {details.models{m,1} ws.data
+                    details.fixedpar col},0,0), wi.startpar,
+                    w.options);
+} 
+a1a_fit_models
+==============================================================
+START Timestamp: 31-Mar-2016 16:27 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+7 Models:
+    'bio01'
+    'bpio01'
+    'bpio04_uw'
+    'bpio08_fuw'
+    'bjio01'
+    'bpjio01'
+    'bpjio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bio01       [16:27] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 2 - bpio01       [16:27] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 3 - bpio04_uw       [16:28] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 4 - bpio08_fuw       [16:28] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+Subject 2  (p02_YY)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+   Correcting for softmax base ==0 (beta=18.3365)
+Model 5 - bjio01       [16:28] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.8303)
+Subject 2  (p02_YY)
+Model 6 - bpjio01       [16:28] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=15.802)
+   Correcting for softmax base ==0 (beta=15.802)
+   Correcting for softmax base ==0 (beta=15.802)
+   Correcting for softmax base ==0 (beta=15.802)
+   Correcting for softmax base ==0 (beta=15.802)
+   Correcting for softmax base ==0 (beta=15.802)
+Subject 2  (p02_YY)
+Model 7 - bpjio08_fuw       [16:28] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+   Correcting for softmax base ==0 (beta=9.7932)
+Subject 2  (p02_YY)
+====================================
+END Timestamp: 31-Mar-2016 16:28 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================
+==============================================================
+START Timestamp: 31-Mar-2016 16:32 hrs
+ 
+Requested: 20 subjects, 2 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpio04_uw'
+    'bpio08_fuw'
+    'bpjio08_fuw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+REMEBER TO UPDATE THE SOFTMAX FUNCTIONS THAT YOU WANT!!
+Just testing out low n subjects!
+Model 1 - bpio04_uw       [16:32] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 2 - bpio08_fuw       [16:33] ##############
+Subject 1  (p01_GV)
+Subject 2  (p02_YY)
+Model 3 - bpjio08_fuw       [16:33] ##############
+Subject 1  (p01_GV)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4719)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4827)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.4716)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.452)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4849)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4537)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4518)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4596)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4525)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=9.4517)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Subject 2  (p02_YY)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5514)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.5895)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4274)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4156)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+   Correcting for softmax base ==0 (beta=9.4154)
+====================================
+END Timestamp: 31-Mar-2016 16:33 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================

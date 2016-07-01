@@ -1,0 +1,914 @@
+==============================================================
+START Timestamp: 29-Mar-2016 19:55 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 123)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',123,0)">line 123</a>)
+
+} 
+a1c_hierarfit_models
+{Error: <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',68,7)">File: a1c_hierarfit_models.m Line: 68 Column: 7
+</a>Unexpected MATLAB operator.
+} 
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:56 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 127)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',127,0)">line 127</a>)
+
+} 
+clear
+pack
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:56 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+8 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+    'bi01'
+    'bpi01'
+    'bmi01'
+    'bpmi01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [19:56] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.5857       nu:  0.29885)
+   Calculating BIC via samples
+Model 2 - bp01       [19:58] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.4     -3.5       nu:  0.41      1.2)
+         Attempting group fit (within EV): 20th try         (mu:  -2.4     -3.4       nu:  0.41      1.1)
+   Group converged on 20th try         (mu:  -2.3771     -3.4134       nu:  0.41258      1.1271)
+   Calculating BIC via samples
+Model 3 - bm01       [20:0] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.8926 -3.5678]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.5299 -2.9561]
+     nu: [0.3693 0.3407]
+    nui: [2x2 double]
+
+   Group converged on 8th try         (mu:  -2.5388     -2.9513       nu:  0.37989     0.24133)
+   Calculating BIC via samples
+Model 4 - bpm01       [20:2] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [7.1987 -6.6346 -29.0824]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [4.8130 -4.1609 -1.7040]
+     nu: [570.7129 1.3438e+03 162.2909]
+    nui: [3x3 double]
+
+Couldn't fit p01_GV at all for  bpm01 (>3 attempts)
+Couldn't fit p18_MS at all for  bpm01 (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.9     -2.9       nu:  0.5      1.2      0.1)
+   Group converged on 17th try         (mu:  -2.3214     -3.9241     -2.9006       nu:  0.49773      1.2411      0.0999)
+   Calculating BIC via samples
+Model 5 - bi01       [20:5] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.7796 -0.2623]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.5927 -0.0289]
+     nu: [0.3889 0.0545]
+    nui: [2x2 double]
+
+   Group converged on 5th try         (mu:  -2.6221   -0.032645       nu:  0.36384    0.052957)
+   Calculating BIC via samples
+Model 6 - bpi01       [20:7] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [2.1646 -3.7932 -0.3341]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-2.0235 -5.4346 -0.0300]
+     nu: [183.0739 655.0826 0.0551]
+    nui: [3x3 double]
+
+         Attempting group fit (within EV): 10th try         (mu:  -2.4       -4   -0.024       nu:  0.62      1.2    0.057)
+   Group converged on 19th try         (mu:  -2.3831     -3.9153   -0.023658       nu:  0.62501      1.2007    0.057316)
+   Calculating BIC via samples
+Model 7 - bmi01       [20:10] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.5629 -1.9495 -1.5015]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-2.5918 -1.8270 -0.3864]
+     nu: [0.4169 0.4240 0.1438]
+    nui: [3x3 double]
+
+   Group converged on 6th try         (mu:  -2.5331     -2.0497    -0.32023       nu:  0.33007     0.46333     0.13839)
+   Calculating BIC via samples
+Model 8 - bpmi01       [20:12] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',283,1)">a1c_hierarfit_models at 283</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',293,1)">a1c_hierarfit_models at 293</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [0.8802 4.9754 -0.3981 -0.2620]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+
+     NewZ:
+     mu: [-1.9833 -5.8249 -1.5768 -0.4667]
+     nu: [1.2761 529.0832 0.8227 0.2349]
+    nui: [4x4 double]
+
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -4.1     -2.1    -0.31       nu:  0.62      1.1     0.48     0.16)
+   Group converged on 17th try         (mu:  -2.2724     -4.0821     -2.0681    -0.30728       nu:  0.61869      1.1264     0.48467     0.16294)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 29-Mar-2016 20:16 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================
+==============================================================
+START Timestamp: 29-Mar-2016 20:43 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [20:43] ##############
+Requested iteration #1 --------------------------------------------------------
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+fminunc error attepmting to fit p01_GV for  bpjio01
+{Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('create@(x)f_nllsoftmax_lapse(x,{details.models{m,1},subjdata{s,1+details.tasktype},details.fixedpar,col},Z,1-(i_group==1))', '', 0)" style="font-weight:bold">create@(x)f_nllsoftmax_lapse(x,{details.models{m,1},subjdata{s,1+details.tasktype},details.fixedpar,col},Z,1-(i_group==1))</a>
+
+In <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m', 240)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',240,0)">line 240</a>)
+                            [wsi.fitparvals,
+                            wsi.L,
+                            wsi.fitok ,
+                            wsi.output,
+                            wsi.grad ,
+                            wsi.hess]=fminunc(@(x)f_nllsoftmax_lapse(x,
+                            {details.models{m,1}
+                            subjdata{s,1+details.tasktype}
+                            details.fixedpar} 
+clear
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',71,1)">a1a_fit_models at 71</a>} 
+{Warning: Name is nonexistent or not a
+directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',71,1)">a1a_fit_models at 71</a>} 
+{Warning: Name is nonexistent or not a
+directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/b.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',72,1)">a1a_fit_models at 72</a>} 
+{Warning: Name is nonexistent or not a
+directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bp.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',73,1)">a1a_fit_models at 73</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bm.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',74,1)">a1a_fit_models at 74</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpm.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',75,1)">a1a_fit_models at 75</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',76,1)">a1a_fit_models at 76</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',77,1)">a1a_fit_models at 77</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bmi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',78,1)">a1a_fit_models at 78</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpmi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',79,1)">a1a_fit_models at 79</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bj.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',80,1)">a1a_fit_models at 80</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpj.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',81,1)">a1a_fit_models at 81</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bjm.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',82,1)">a1a_fit_models at 82</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpjm.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',83,1)">a1a_fit_models at 83</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bji.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',84,1)">a1a_fit_models at 84</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpji.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',85,1)">a1a_fit_models at 85</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bjmi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',86,1)">a1a_fit_models at 86</a>} 
+{Warning: Name is nonexistent or not
+a directory:
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/1 Value
+functions/bpjmi.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',87,1)">a1a_fit_models at 87</a>} 
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+/Users/EleanorL/Dropbox/SANDISK/4
+Explore experiment/3 Analysis/4 Fit
+computational models/2 Analysis
+inputs/All Data (09-May-2014).mat:
+No such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 92)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',92,0)">line 92</a>)
+    w=load([where.where filesep '2
+    Analysis inputs' filesep
+    details.dataset]);
+} 
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',71,1)">a1a_fit_models at 71</a>} 

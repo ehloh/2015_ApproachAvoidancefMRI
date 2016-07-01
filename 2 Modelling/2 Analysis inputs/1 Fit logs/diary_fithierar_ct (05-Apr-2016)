@@ -1,0 +1,1325 @@
+==============================================================
+START Timestamp: 05-Apr-2016 16:7 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  ct
+ 
+96 Models:
+    'b01'
+    'b03_e'
+    'b04_uw'
+    'b05_vw'
+    'b06_ow'
+    'b11_euw'
+    'b12_evw'
+    'b13_eow'
+    'b17_yw'
+    'b19_eyw'
+    'b21_kw'
+    'b23_ekw'
+    'bp01'
+    'bp03_e'
+    'bp04_uw'
+    'bp05_vw'
+    'bp06_ow'
+    'bp11_euw'
+    'bp12_evw'
+    'bp13_eow'
+    'bp17_yw'
+    'bp19_eyw'
+    'bp21_kw'
+    'bp23_ekw'
+    'bm01'
+    'bm03_e'
+    'bm04_uw'
+    'bm05_vw'
+    'bm06_ow'
+    'bm11_euw'
+    'bm12_evw'
+    'bm13_eow'
+    'bm17_yw'
+    'bm19_eyw'
+    'bm21_kw'
+    'bm23_ekw'
+    'bpm01'
+    'bpm03_e'
+    'bpm04_uw'
+    'bpm05_vw'
+    'bpm06_ow'
+    'bpm11_euw'
+    'bpm12_evw'
+    'bpm13_eow'
+    'bpm17_yw'
+    'bpm19_eyw'
+    'bpm21_kw'
+    'bpm23_ekw'
+    'bi01'
+    'bi03_e'
+    'bi04_uw'
+    'bi05_vw'
+    'bi06_ow'
+    'bi11_euw'
+    'bi12_evw'
+    'bi13_eow'
+    'bi17_yw'
+    'bi19_eyw'
+    'bi21_kw'
+    'bi23_ekw'
+    'bpi01'
+    'bpi03_e'
+    'bpi04_uw'
+    'bpi05_vw'
+    'bpi06_ow'
+    'bpi11_euw'
+    'bpi12_evw'
+    'bpi13_eow'
+    'bpi17_yw'
+    'bpi19_eyw'
+    'bpi21_kw'
+    'bpi23_ekw'
+    'bmi01'
+    'bmi03_e'
+    'bmi04_uw'
+    'bmi05_vw'
+    'bmi06_ow'
+    'bmi11_euw'
+    'bmi12_evw'
+    'bmi13_eow'
+    'bmi17_yw'
+    'bmi19_eyw'
+    'bmi21_kw'
+    'bmi23_ekw'
+    'bpmi01'
+    'bpmi03_e'
+    'bpmi04_uw'
+    'bpmi05_vw'
+    'bpmi06_ow'
+    'bpmi11_euw'
+    'bpmi12_evw'
+    'bpmi13_eow'
+    'bpmi17_yw'
+    'bpmi19_eyw'
+    'bpmi21_kw'
+    'bpmi23_ekw'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [16:7] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.68       nu:  0.22656)
+   Calculating BIC via samples
+{Error using <a href="matlab:helpUtils.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Partial hierarfit ct (05-Apr-2016 - 16 hrs).mat'
+because '2 Analysis inputs\PartialFits' does not exist.
+Error in <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models_RUN', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m', 401)" style="font-weight:bold">a1c_hierarfit_models_RUN</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',401,0)">line 401</a>)
+    w.c=clock; save(['2 Analysis inputs' filesep 'PartialFits'
+    filesep 'Partial hierarfit ' details.task ' (' date ' - '
+    num2str(w.c(4)) ' hrs)']);} 
+a1c_hierarfit_models_RUN
+==============================================================
+START Timestamp: 05-Apr-2016 16:9 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  ct
+ 
+96 Models:
+    'b01'
+    'b03_e'
+    'b04_uw'
+    'b05_vw'
+    'b06_ow'
+    'b11_euw'
+    'b12_evw'
+    'b13_eow'
+    'b17_yw'
+    'b19_eyw'
+    'b21_kw'
+    'b23_ekw'
+    'bp01'
+    'bp03_e'
+    'bp04_uw'
+    'bp05_vw'
+    'bp06_ow'
+    'bp11_euw'
+    'bp12_evw'
+    'bp13_eow'
+    'bp17_yw'
+    'bp19_eyw'
+    'bp21_kw'
+    'bp23_ekw'
+    'bm01'
+    'bm03_e'
+    'bm04_uw'
+    'bm05_vw'
+    'bm06_ow'
+    'bm11_euw'
+    'bm12_evw'
+    'bm13_eow'
+    'bm17_yw'
+    'bm19_eyw'
+    'bm21_kw'
+    'bm23_ekw'
+    'bpm01'
+    'bpm03_e'
+    'bpm04_uw'
+    'bpm05_vw'
+    'bpm06_ow'
+    'bpm11_euw'
+    'bpm12_evw'
+    'bpm13_eow'
+    'bpm17_yw'
+    'bpm19_eyw'
+    'bpm21_kw'
+    'bpm23_ekw'
+    'bi01'
+    'bi03_e'
+    'bi04_uw'
+    'bi05_vw'
+    'bi06_ow'
+    'bi11_euw'
+    'bi12_evw'
+    'bi13_eow'
+    'bi17_yw'
+    'bi19_eyw'
+    'bi21_kw'
+    'bi23_ekw'
+    'bpi01'
+    'bpi03_e'
+    'bpi04_uw'
+    'bpi05_vw'
+    'bpi06_ow'
+    'bpi11_euw'
+    'bpi12_evw'
+    'bpi13_eow'
+    'bpi17_yw'
+    'bpi19_eyw'
+    'bpi21_kw'
+    'bpi23_ekw'
+    'bmi01'
+    'bmi03_e'
+    'bmi04_uw'
+    'bmi05_vw'
+    'bmi06_ow'
+    'bmi11_euw'
+    'bmi12_evw'
+    'bmi13_eow'
+    'bmi17_yw'
+    'bmi19_eyw'
+    'bmi21_kw'
+    'bmi23_ekw'
+    'bpmi01'
+    'bpmi03_e'
+    'bpmi04_uw'
+    'bpmi05_vw'
+    'bpmi06_ow'
+    'bpmi11_euw'
+    'bpmi12_evw'
+    'bpmi13_eow'
+    'bpmi17_yw'
+    'bpmi19_eyw'
+    'bpmi21_kw'
+    'bpmi23_ekw'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [16:9] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.68       nu:  0.22656)
+   Calculating BIC via samples
+Model 2 - b03_e       [16:11] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 7th try         (mu:  -2.5214   0.0075544       nu:  0.37186      1.0102)
+   Calculating BIC via samples
+Model 3 - b04_uw       [16:12] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 8th try         (mu:  -2.4999     0.32737       nu:  0.32628      1.4734)
+   Calculating BIC via samples
+Model 4 - b05_vw       [16:14] ##############
+Requested iteration #1 --------------------------------------------------------
+Couldn't fit p13_HL at all for  b05_vw (>3 attempts)
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.0309 -0.2877]
+     nu: [20.7279 + 0.0000i 0.0000 +68.2839i]
+    nui: [2x2 double]
+     NewZ:
+     mu: [-3.0309 -0.0443]
+     nu: [20.7279 0.9805]
+    nui: [2x2 double]
+   Group converged on 8th try         (mu:  -2.3679   -0.047375       nu:  0.55714      0.7731)
+   Calculating BIC via samples
+Model 5 - b06_ow       [16:16] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 6th try         (mu:  -2.5183    0.042766       nu:  0.32773     0.20385)
+   Calculating BIC via samples
+Model 6 - b11_euw       [16:18] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.8     -6.4       11       nu:  0.29        1      1.1)
+         Attempting group fit (within EV): 20th try         (mu:  -2.8     -6.2       10       nu:  0.29        1      1.1)
+         Attempting group fit (within EV): 30th try         (mu:  -2.8       -6      9.9       nu:  0.29        1      1.1)
+         Attempting group fit (within EV): 40th try         (mu:  -2.8       -6      9.8       nu:  0.29        1      1.1)
+         Attempting group fit (within EV): 50th try         (mu:  -2.8       -6      9.8       nu:  0.29        1      1.1)
+         Attempting group fit (within EV): 60th try         (mu:  -2.8       -6      9.8       nu:  0.29        1      1.1)
+   Group converged on 65th try         (mu:  -2.8256      -5.966      9.7796       nu:  0.28895      1.0121      1.1287)
+   Calculating BIC via samples
+Model 7 - b12_evw       [16:22] ##############
+Requested iteration #1 --------------------------------------------------------
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=11.9175)
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.0645 0.1309 -0.5435]
+     nu: [1x3 double]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-3.0645 0.1309 -0.0159]
+     nu: [10.7655 173.0214 0.6341]
+    nui: [3x3 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Group converged on 8th try         (mu:  -2.3784   -0.020109   -0.033914       nu:  0.52933       0.916     0.45904)
+   Calculating BIC via samples
+Model 8 - b13_eow       [16:24] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.7     -1.8     0.36       nu:  0.33      1.2     0.21)
+   Group converged on 10th try         (mu:  -2.7057     -1.8015     0.35677       nu:  0.32542      1.1952     0.21296)
+   Calculating BIC via samples
+Model 9 - b17_yw       [16:26] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.5      1.5       nu:  0.3      3.2)
+   Group converged on 10th try         (mu:  -2.4896      1.4639       nu:  0.29924      3.1637)
+   Calculating BIC via samples
+Model 10 - b19_eyw       [16:28] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.9     -5.3       25       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 20th try         (mu:  -2.9     -5.2       25       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 30th try         (mu:  -2.9     -5.1       24       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 40th try         (mu:  -2.8     -5.1       24       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 50th try         (mu:  -2.8       -5       24       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 60th try         (mu:  -2.8       -5       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 70th try         (mu:  -2.8     -4.9       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 80th try         (mu:  -2.8     -4.9       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 90th try         (mu:  -2.8     -4.9       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 100th try         (mu:  -2.8     -4.9       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 110th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 120th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 130th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 140th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 150th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 160th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 170th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+         Attempting group fit (within EV): 180th try         (mu:  -2.8     -4.8       23       nu:  0.28      1.1      1.1)
+   Group converged on 186th try         (mu:  -2.83504     -4.80892      22.7761       nu:  0.28487      1.1009       1.065)
+   Calculating BIC via samples
+Model 11 - b21_kw       [16:37] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 6th try         (mu:  -2.5357    0.019691       nu:  0.33677     0.26808)
+   Calculating BIC via samples
+Model 12 - b23_ekw       [16:39] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 9th try         (mu:  -2.5793    -0.71449     0.17822       nu:  0.35318      1.0516       0.195)
+   Calculating BIC via samples
+Model 13 - bp01       [16:41] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.5     -3.6       nu:  0.32      1.2)
+         Attempting group fit (within EV): 20th try         (mu:  -2.5     -3.6       nu:  0.32      1.1)
+   Group converged on 20th try         (mu:  -2.5169      -3.557       nu:  0.31748      1.1397)
+   Calculating BIC via samples
+Model 14 - bp03_e       [16:43] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.7626 -9.1015 -9.2142]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-0.6286 -9.4023 0.1987]
+     nu: [1.3469e+03 1.4350e+03 0.7210]
+    nui: [3x3 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.1     -3.3    0.061       nu:  0.82      1.2     0.97)
+   Group converged on 16th try         (mu:  -2.0829      -3.261    0.061536       nu:  0.82233      1.2276     0.96658)
+   Calculating BIC via samples
+Model 15 - bp04_uw       [16:46] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.4329 -11.0342 0.4919]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-0.3236 -8.4572 0.4739]
+     nu: [943.8609 5.2359e+03 1.1386]
+    nui: [3x3 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.4       -4      0.4       nu:  0.4      1.2      1.4)
+         Attempting group fit (within EV): 20th try         (mu:  -2.4       -4      0.4       nu:  0.39      1.1      1.4)
+   Group converged on 20th try         (mu:  -2.351     -3.9752     0.39725       nu:  0.39485      1.1207      1.3985)
+   Calculating BIC via samples
+Model 16 - bp05_vw       [16:48] ##############
+Requested iteration #1 --------------------------------------------------------
+Couldn't fit p13_HL at all for  bp05_vw (>3 attempts)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+Couldn't fit p17_SJ at all for  bp05_vw (>3 attempts)
+Couldn't fit p25_RJ at all for  bp05_vw (>3 attempts)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.8944 -13.1954 0.4197]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-1.2750 -8.7232 0.4903]
+     nu: [10.3293 1.9264e+03 281.0578]
+    nui: [3x3 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.1     -4.2    -0.15       nu:  0.68      1.2     0.85)
+         Attempting group fit (within EV): 20th try         (mu:  -2.1     -4.2    -0.15       nu:  0.68      1.1     0.85)
+   Group converged on 20th try         (mu:  -2.0581      -4.171    -0.15373       nu:  0.68239      1.1256     0.84557)
+   Calculating BIC via samples
+Model 17 - bp06_ow       [16:51] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.3182 -5.2610 -948.3165]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-0.8404 -5.7639 -1.1155e+03]
+     nu: [575.3291 1.7198e+03 3.2791e+05]
+    nui: [3x3 double]
+   Correcting for softmax base ==0 (beta=19.9914)
+   Correcting for softmax base ==0 (beta=19.9914)
+   Correcting for softmax base ==0 (beta=19.9914)
+   Correcting for softmax base ==0 (beta=19.9914)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=16.952)
+   Correcting for softmax base ==0 (beta=16.952)
+   Correcting for softmax base ==0 (beta=16.952)
+   Correcting for softmax base ==0 (beta=16.952)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=2.1108)
+   Correcting for softmax base ==0 (beta=2.1108)
+   Correcting for softmax base ==0 (beta=2.1108)
+   Correcting for softmax base ==0 (beta=2.1108)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+         Attempting group fit (within EV): 10th try         (mu:  -2     -1.9      -17       nu:  0.61      1.6       15)
+   Correcting for softmax base ==0 (beta=17.3645)
+   Correcting for softmax base ==0 (beta=17.3645)
+   Correcting for softmax base ==0 (beta=17.3645)
+   Correcting for softmax base ==0 (beta=17.3645)
+   Correcting for softmax base ==0 (beta=9.9649)
+   Correcting for softmax base ==0 (beta=9.9649)
+   Correcting for softmax base ==0 (beta=9.9649)
+   Correcting for softmax base ==0 (beta=9.9649)
+   Correcting for softmax base ==0 (beta=18.7506)
+   Correcting for softmax base ==0 (beta=18.7506)
+   Correcting for softmax base ==0 (beta=18.7506)
+   Correcting for softmax base ==0 (beta=18.7506)
+   Correcting for softmax base ==0 (beta=9.202)
+   Correcting for softmax base ==0 (beta=9.202)
+   Correcting for softmax base ==0 (beta=9.202)
+   Correcting for softmax base ==0 (beta=9.202)
+   Correcting for softmax base ==0 (beta=8.0778)
+   Correcting for softmax base ==0 (beta=8.0778)
+   Correcting for softmax base ==0 (beta=8.0778)
+   Correcting for softmax base ==0 (beta=8.0778)
+   Correcting for softmax base ==0 (beta=13.1682)
+   Correcting for softmax base ==0 (beta=13.1682)
+   Correcting for softmax base ==0 (beta=13.1682)
+   Correcting for softmax base ==0 (beta=13.1682)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.9999)
+   Correcting for softmax base ==0 (beta=19.7607)
+   Correcting for softmax base ==0 (beta=19.7607)
+   Correcting for softmax base ==0 (beta=19.7607)
+   Correcting for softmax base ==0 (beta=19.7607)
+   Correcting for softmax base ==0 (beta=19.9971)
+   Correcting for softmax base ==0 (beta=19.9971)
+   Correcting for softmax base ==0 (beta=19.9971)
+   Correcting for softmax base ==0 (beta=19.9971)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9902)
+   Correcting for softmax base ==0 (beta=19.9902)
+   Correcting for softmax base ==0 (beta=19.9902)
+   Correcting for softmax base ==0 (beta=19.9902)
+   Correcting for softmax base ==0 (beta=7.8226)
+   Correcting for softmax base ==0 (beta=7.8226)
+   Correcting for softmax base ==0 (beta=7.8226)
+   Correcting for softmax base ==0 (beta=7.8226)
+   Correcting for softmax base ==0 (beta=19.9947)
+   Correcting for softmax base ==0 (beta=19.9947)
+   Correcting for softmax base ==0 (beta=19.9947)
+   Correcting for softmax base ==0 (beta=19.9947)
+   Correcting for softmax base ==0 (beta=19.9996)
+   Correcting for softmax base ==0 (beta=19.9996)
+   Correcting for softmax base ==0 (beta=19.9996)
+   Correcting for softmax base ==0 (beta=19.9996)
+   Correcting for softmax base ==0 (beta=19.9955)
+   Correcting for softmax base ==0 (beta=19.9955)
+   Correcting for softmax base ==0 (beta=19.9955)
+   Correcting for softmax base ==0 (beta=19.9955)
+   Correcting for softmax base ==0 (beta=8.4044)
+   Correcting for softmax base ==0 (beta=8.4044)
+   Correcting for softmax base ==0 (beta=8.4044)
+   Correcting for softmax base ==0 (beta=8.4044)
+   Correcting for softmax base ==0 (beta=1.1199)
+   Correcting for softmax base ==0 (beta=1.1199)
+   Correcting for softmax base ==0 (beta=1.1199)
+   Correcting for softmax base ==0 (beta=1.1199)
+   Correcting for softmax base ==0 (beta=3.0476)
+   Correcting for softmax base ==0 (beta=3.0476)
+   Correcting for softmax base ==0 (beta=3.0476)
+   Correcting for softmax base ==0 (beta=3.0476)
+   Correcting for softmax base ==0 (beta=2.9652)
+   Correcting for softmax base ==0 (beta=2.9652)
+   Correcting for softmax base ==0 (beta=2.9652)
+   Correcting for softmax base ==0 (beta=2.9652)
+   Correcting for softmax base ==0 (beta=12.1056)
+   Correcting for softmax base ==0 (beta=12.1056)
+   Correcting for softmax base ==0 (beta=12.1056)
+   Correcting for softmax base ==0 (beta=12.1056)
+   Correcting for softmax base ==0 (beta=4.9186)
+   Correcting for softmax base ==0 (beta=4.9186)
+   Correcting for softmax base ==0 (beta=4.9186)
+   Correcting for softmax base ==0 (beta=4.9186)
+   Correcting for softmax base ==0 (beta=18.7419)
+   Correcting for softmax base ==0 (beta=18.7419)
+   Correcting for softmax base ==0 (beta=18.7419)
+   Correcting for softmax base ==0 (beta=18.7419)
+   Correcting for softmax base ==0 (beta=19.729)
+   Correcting for softmax base ==0 (beta=19.729)
+   Correcting for softmax base ==0 (beta=19.729)
+   Correcting for softmax base ==0 (beta=19.729)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9997)
+   Correcting for softmax base ==0 (beta=19.9997)
+   Correcting for softmax base ==0 (beta=19.9997)
+   Correcting for softmax base ==0 (beta=19.9997)
+   Correcting for softmax base ==0 (beta=10.9694)
+   Correcting for softmax base ==0 (beta=10.9694)
+   Correcting for softmax base ==0 (beta=10.9694)
+   Correcting for softmax base ==0 (beta=10.9694)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.8733)
+   Correcting for softmax base ==0 (beta=19.8733)
+   Correcting for softmax base ==0 (beta=19.8733)
+   Correcting for softmax base ==0 (beta=19.8733)
+   Correcting for softmax base ==0 (beta=1.491)
+   Correcting for softmax base ==0 (beta=1.491)
+   Correcting for softmax base ==0 (beta=1.491)
+   Correcting for softmax base ==0 (beta=1.491)
+   Correcting for softmax base ==0 (beta=19.9596)
+   Correcting for softmax base ==0 (beta=19.9596)
+   Correcting for softmax base ==0 (beta=19.9596)
+   Correcting for softmax base ==0 (beta=19.9596)
+   Correcting for softmax base ==0 (beta=12.3661)
+   Correcting for softmax base ==0 (beta=12.3661)
+   Correcting for softmax base ==0 (beta=12.3661)
+   Correcting for softmax base ==0 (beta=12.3661)
+   Correcting for softmax base ==0 (beta=12.4633)
+   Correcting for softmax base ==0 (beta=12.4633)
+   Correcting for softmax base ==0 (beta=12.4633)
+   Correcting for softmax base ==0 (beta=12.4633)
+   Correcting for softmax base ==0 (beta=19.9456)
+   Correcting for softmax base ==0 (beta=19.9456)
+   Correcting for softmax base ==0 (beta=19.9456)
+   Correcting for softmax base ==0 (beta=19.9456)
+   Correcting for softmax base ==0 (beta=7.4583)
+   Correcting for softmax base ==0 (beta=7.4583)
+   Correcting for softmax base ==0 (beta=7.4583)
+   Correcting for softmax base ==0 (beta=7.4583)
+   Correcting for softmax base ==0 (beta=10.4196)
+   Correcting for softmax base ==0 (beta=10.4196)
+   Correcting for softmax base ==0 (beta=10.4196)
+   Correcting for softmax base ==0 (beta=10.4196)
+   Correcting for softmax base ==0 (beta=19.9857)
+   Correcting for softmax base ==0 (beta=19.9857)
+   Correcting for softmax base ==0 (beta=19.9857)
+   Correcting for softmax base ==0 (beta=19.9857)
+   Correcting for softmax base ==0 (beta=19.9977)
+   Correcting for softmax base ==0 (beta=19.9977)
+   Correcting for softmax base ==0 (beta=19.9977)
+   Correcting for softmax base ==0 (beta=19.9977)
+   Correcting for softmax base ==0 (beta=19.967)
+   Correcting for softmax base ==0 (beta=19.967)
+   Correcting for softmax base ==0 (beta=19.967)
+   Correcting for softmax base ==0 (beta=19.967)
+   Correcting for softmax base ==0 (beta=15.8481)
+   Correcting for softmax base ==0 (beta=15.8481)
+   Correcting for softmax base ==0 (beta=15.8481)
+   Correcting for softmax base ==0 (beta=15.8481)
+   Correcting for softmax base ==0 (beta=3.0777)
+   Correcting for softmax base ==0 (beta=3.0777)
+   Correcting for softmax base ==0 (beta=3.0777)
+   Correcting for softmax base ==0 (beta=3.0777)
+   Correcting for softmax base ==0 (beta=16.292)
+   Correcting for softmax base ==0 (beta=16.292)
+   Correcting for softmax base ==0 (beta=16.292)
+   Correcting for softmax base ==0 (beta=16.292)
+   Correcting for softmax base ==0 (beta=7.6374)
+   Correcting for softmax base ==0 (beta=7.6374)
+   Correcting for softmax base ==0 (beta=7.6374)
+   Correcting for softmax base ==0 (beta=7.6374)
+   Correcting for softmax base ==0 (beta=7.4511)
+   Correcting for softmax base ==0 (beta=7.4511)
+   Correcting for softmax base ==0 (beta=7.4511)
+   Correcting for softmax base ==0 (beta=7.4511)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=13.7628)
+   Correcting for softmax base ==0 (beta=13.7628)
+   Correcting for softmax base ==0 (beta=13.7628)
+   Correcting for softmax base ==0 (beta=13.7628)
+   Correcting for softmax base ==0 (beta=17.8654)
+   Correcting for softmax base ==0 (beta=17.8654)
+   Correcting for softmax base ==0 (beta=17.8654)
+   Correcting for softmax base ==0 (beta=17.8654)
+   Correcting for softmax base ==0 (beta=16.5422)
+   Correcting for softmax base ==0 (beta=16.5422)
+   Correcting for softmax base ==0 (beta=16.5422)
+   Correcting for softmax base ==0 (beta=16.5422)
+   Correcting for softmax base ==0 (beta=18.962)
+   Correcting for softmax base ==0 (beta=18.962)
+   Correcting for softmax base ==0 (beta=18.962)
+   Correcting for softmax base ==0 (beta=18.962)
+   Correcting for softmax base ==0 (beta=19.9741)
+   Correcting for softmax base ==0 (beta=19.9741)
+   Correcting for softmax base ==0 (beta=19.9741)
+   Correcting for softmax base ==0 (beta=19.9741)
+   Correcting for softmax base ==0 (beta=4.9383)
+   Correcting for softmax base ==0 (beta=4.9383)
+   Correcting for softmax base ==0 (beta=4.9383)
+   Correcting for softmax base ==0 (beta=4.9383)
+         Attempting group fit (within EV): 20th try         (mu:  -2.4       -4   0.0021       nu:  0.32      1.1     0.39)
+         Attempting group fit (within EV): 30th try         (mu:  -2.4     -4.2   0.0088       nu:  0.32      1.1     0.36)
+   Group converged on 32th try         (mu:  -2.4207     -4.1564   0.0087905       nu:  0.31787       1.137     0.35842)
+   Calculating BIC via samples
+Model 18 - bp11_euw       [16:55] ##############
+Requested iteration #1 --------------------------------------------------------
+   Correcting for softmax base ==0 (beta=19.8736)
+   Correcting for softmax base ==0 (beta=19.8736)
+   Correcting for softmax base ==0 (beta=19.8736)
+   Correcting for softmax base ==0 (beta=19.8736)
+   Correcting for softmax base ==0 (beta=19.8736)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.5943 -12.1634 -18.3659 27.2495]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-0.5830 -8.3385 -6.8527 11.4440]
+     nu: [1.4170e+03 1.2500e+03 5.3491 8.1463]
+    nui: [4x4 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9766)
+   Correcting for softmax base ==0 (beta=19.9766)
+   Correcting for softmax base ==0 (beta=19.9766)
+   Correcting for softmax base ==0 (beta=19.9766)
+   Correcting for softmax base ==0 (beta=19.9766)
+   Correcting for softmax base ==0 (beta=19.1799)
+   Correcting for softmax base ==0 (beta=19.1799)
+   Correcting for softmax base ==0 (beta=19.1799)
+   Correcting for softmax base ==0 (beta=19.1799)
+   Correcting for softmax base ==0 (beta=19.1799)
+         Attempting group fit (within EV): 10th try         (mu:  -2.8     -4.5     -6.9       11       nu:  0.29        1        1        1)
+         Attempting group fit (within EV): 20th try         (mu:  -2.8     -4.5     -6.9       11       nu:  0.29        1        1        1)
+         Attempting group fit (within EV): 30th try         (mu:  -2.8     -4.5     -6.9       11       nu:  0.29        1        1        1)
+         Attempting group fit (within EV): 40th try         (mu:  -2.8     -4.5       -7       11       nu:  0.29        1        1        1)
+   Group converged on 42th try         (mu:  -2.78248     -4.46765     -6.95258      11.3328       nu:  0.2924     0.99878     0.99646      1.0232)
+   Calculating BIC via samples
+Model 19 - bp12_evw       [16:59] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  7.065112e-17.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  2.643033e-17.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+Couldn't fit p13_HL at all for  bp12_evw (>3 attempts)
+Couldn't fit p25_RJ at all for  bp12_evw (>3 attempts)
+Couldn't fit p35_SM at all for  bp12_evw (>3 attempts)
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1.3094 -5.9066 -1.2436 1.2472]
+     nu: [1x4 double]
+    nui: [4x4 double]
+     NewZ:
+     mu: [0.1897 -4.2071 -0.5615 1.4626]
+     nu: [1.5025e+03 705.2915 276.9691 173.9260]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -1.9     -3.3    0.065  -0.0014       nu:  0.85      1.3     0.94     0.59)
+   Group converged on 14th try         (mu:  -1.905     -3.3491    0.065817  1.1778e-05       nu:  0.84359      1.2747      0.9379     0.59248)
+   Calculating BIC via samples
+Model 20 - bp13_eow       [17:3] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  4.723297e-24.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.869)
+   Correcting for softmax base ==0 (beta=19.869)
+   Correcting for softmax base ==0 (beta=19.869)
+   Correcting for softmax base ==0 (beta=19.869)
+   Correcting for softmax base ==0 (beta=19.869)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  6.885381e-24.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.7697 -5.8123 -4.1995 -1.7232]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-1.9454 -6.1857 -5.0742 -0.8502]
+     nu: [177.0004 1.6609e+03 1.3235e+10 8.7327e+09]
+    nui: [4x4 double]
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=7.2533)
+   Correcting for softmax base ==0 (beta=7.2533)
+   Correcting for softmax base ==0 (beta=7.2533)
+   Correcting for softmax base ==0 (beta=7.2533)
+   Correcting for softmax base ==0 (beta=7.2533)
+   Correcting for softmax base ==0 (beta=19.9715)
+   Correcting for softmax base ==0 (beta=19.9715)
+   Correcting for softmax base ==0 (beta=19.9715)
+   Correcting for softmax base ==0 (beta=19.9715)
+   Correcting for softmax base ==0 (beta=19.9715)
+   Correcting for softmax base ==0 (beta=4.8961)
+   Correcting for softmax base ==0 (beta=4.8961)
+   Correcting for softmax base ==0 (beta=4.8961)
+   Correcting for softmax base ==0 (beta=4.8961)
+   Correcting for softmax base ==0 (beta=4.8961)
+         Attempting group fit (within EV): 10th try         (mu:  -2.6     -4.2     -1.8     0.37       nu:  0.41     0.97      1.4     0.26)
+         Attempting group fit (within EV): 20th try         (mu:  -2.6     -4.5     -1.8     0.37       nu:  0.4      1.1      1.4     0.26)
+   Group converged on 25th try         (mu:  -2.6      -4.553     -1.8119     0.36682       nu:  0.40156      1.1106      1.3804     0.25544)
+   Calculating BIC via samples
+Model 21 - bp17_yw       [17:7] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.6      1.6       nu:  0.54      1.1      2.8)
+   Group converged on 17th try         (mu:  -2.2495     -3.6171      1.6094       nu:  0.53546      1.1265      2.7929)
+   Calculating BIC via samples
+Model 22 - bp19_eyw       [17:9] ##############
+Requested iteration #1 --------------------------------------------------------
+Couldn't fit p01_GV at all for  bp19_eyw (>3 attempts)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Correcting for softmax base ==0 (beta=19.9732)
+   Correcting for softmax base ==0 (beta=19.9732)
+   Correcting for softmax base ==0 (beta=19.9732)
+   Correcting for softmax base ==0 (beta=19.9732)
+   Correcting for softmax base ==0 (beta=19.9732)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [0.4218 -31.7393 -5.4799 23.6815]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-0.1773 -6.6406 -5.1516 24.0796]
+     nu: [608.1419 1.3001e+03 11.1846 44.6855]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.8     -4.7     -4.8       23       nu:  0.29        1      1.1      1.1)
+         Attempting group fit (within EV): 20th try         (mu:  -2.8     -4.6     -4.9       23       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 30th try         (mu:  -2.8     -4.6     -4.9       23       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 40th try         (mu:  -2.8     -4.6       -5       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 50th try         (mu:  -2.8     -4.6       -5       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 60th try         (mu:  -2.8     -4.6     -5.1       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 70th try         (mu:  -2.8     -4.6     -5.1       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 80th try         (mu:  -2.8     -4.6     -5.1       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 90th try         (mu:  -2.8     -4.6     -5.2       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 100th try         (mu:  -2.8     -4.6     -5.2       24       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 110th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 120th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 130th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 140th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 150th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 160th try         (mu:  -2.8     -4.6     -5.2       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 170th try         (mu:  -2.8     -4.6     -5.3       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 180th try         (mu:  -2.8     -4.6     -5.3       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 190th try         (mu:  -2.8     -4.6     -5.3       25       nu:  0.29        1      1.1        1)
+         Attempting group fit (within EV): 200th try         (mu:  -2.8     -4.6     -5.3       25       nu:  0.29        1      1.1        1)
+bp19_eyw:  >200 group-level iters couldn't converge
+   Calculating BIC via samples
+Model 23 - bp21_kw       [17:22] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.4290 -4.4446 -16.4608]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-0.8602 -5.4670 -19.7762]
+     nu: [721.9128 1.0375e+03 7.8441e+03]
+    nui: [3x3 double]
+   Correcting for softmax base ==0 (beta=18.6693)
+   Correcting for softmax base ==0 (beta=18.6693)
+   Correcting for softmax base ==0 (beta=18.6693)
+   Correcting for softmax base ==0 (beta=18.6693)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=18.903)
+   Correcting for softmax base ==0 (beta=18.903)
+   Correcting for softmax base ==0 (beta=18.903)
+   Correcting for softmax base ==0 (beta=18.903)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.18)
+   Correcting for softmax base ==0 (beta=19.18)
+   Correcting for softmax base ==0 (beta=19.18)
+   Correcting for softmax base ==0 (beta=19.18)
+   Correcting for softmax base ==0 (beta=3.3258)
+   Correcting for softmax base ==0 (beta=3.3258)
+   Correcting for softmax base ==0 (beta=3.3258)
+   Correcting for softmax base ==0 (beta=3.3258)
+         Attempting group fit (within EV): 10th try         (mu:  -2.4     -3.7   -0.066       nu:  0.35     0.99     0.54)
+         Attempting group fit (within EV): 20th try         (mu:  -2.4     -4.1   -0.036       nu:  0.33      1.2     0.46)
+   Group converged on 23th try         (mu:  -2.4397     -4.1364   -0.035711       nu:  0.33374      1.1624     0.46363)
+   Calculating BIC via samples
+Model 24 - bp23_ekw       [17:25] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [0.9594 -3.6690 -1.8058 -1.3256]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-1.7349 -5.6727 -2.4678 -1.5772]
+     nu: [1.3616 712.6551 1.0167e+03 1.2373e+03]
+    nui: [4x4 double]
+   Correcting for softmax base ==0 (beta=19.9967)
+   Correcting for softmax base ==0 (beta=19.9967)
+   Correcting for softmax base ==0 (beta=19.9967)
+   Correcting for softmax base ==0 (beta=19.9967)
+   Correcting for softmax base ==0 (beta=19.9967)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9131)
+   Correcting for softmax base ==0 (beta=19.9131)
+   Correcting for softmax base ==0 (beta=19.9131)
+   Correcting for softmax base ==0 (beta=19.9131)
+   Correcting for softmax base ==0 (beta=19.9131)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9995)
+   Correcting for softmax base ==0 (beta=19.9995)
+   Correcting for softmax base ==0 (beta=19.9995)
+   Correcting for softmax base ==0 (beta=19.9995)
+   Correcting for softmax base ==0 (beta=19.9995)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.1012)
+   Correcting for softmax base ==0 (beta=19.1012)
+   Correcting for softmax base ==0 (beta=19.1012)
+   Correcting for softmax base ==0 (beta=19.1012)
+   Correcting for softmax base ==0 (beta=19.1012)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.2112)
+   Correcting for softmax base ==0 (beta=19.2112)
+   Correcting for softmax base ==0 (beta=19.2112)
+   Correcting for softmax base ==0 (beta=19.2112)
+   Correcting for softmax base ==0 (beta=19.2112)
+         Attempting group fit (within EV): 10th try         (mu:  -1.2     -2.5     0.42   -0.085       nu:  1.4      1.1      1.4     0.26)
+   Group converged on 12th try         (mu:  -1.2336     -2.5108      0.4163    -0.08446       nu:  1.3943      1.0735       1.437     0.26263)
+   Calculating BIC via samples
+Model 25 - bm01       [17:29] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 8th try         (mu:  -2.5392     -2.6354       nu:  0.32444      1.3444)
+   Calculating BIC via samples
+Model 26 - bm03_e       [17:30] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  1.744824e-17.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.6083 5.2503 -1.5760]
+     nu: [1x3 double]
+    nui: [3x3 double]
+     NewZ:
+     mu: [-2.6083 4.0815 -1.5760]
+     nu: [0.4220 2.3052e+03 1.4100]
+    nui: [3x3 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.6    -0.69     -1.5       nu:  0.4      1.1     0.96)
+   Group converged on 12th try         (mu:  -2.6108    -0.69472     -1.4673       nu:  0.39677      1.1413     0.96225)
+   Calculating BIC via samples
+Model 27 - bm04_uw       [17:33] ##############
+Requested iteration #1 --------------------------------------------------------
+   Correcting for softmax base ==0 (beta=19.9874)
+   Correcting for softmax base ==0 (beta=18.2514)
+         Attempting group fit (within EV): 10th try         (mu:  -2.5       -1     -1.7       nu:  0.4      1.4      1.8)
+   Group converged on 10th try         (mu:  -2.4573     -1.0449     -1.6884       nu:  0.39988      1.3969      1.8458)
+   Calculating BIC via samples
+Model 28 - bm05_vw       [17:35] ##############
+Requested iteration #1 --------------------------------------------------------
+   Correcting for softmax base ==0 (beta=19.9994)
+   Correcting for softmax base ==0 (beta=19.2718)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+Couldn't fit p06_KB at all for  bm05_vw (>3 attempts)
+   Correcting for softmax base ==0 (beta=19.9935)
+   Correcting for softmax base ==0 (beta=17.9408)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=19.9998)
+   Correcting for softmax base ==0 (beta=19.8725)
+         Attempting group fit (within EV): 10th try         (mu:  -2.8     -1.5     0.77       nu:  0.34      1.9     0.57)
+   Group converged on 11th try         (mu:  -2.7615     -1.5349     0.77149       nu:  0.33886      1.9171     0.56504)
+   Calculating BIC via samples
+Model 29 - bm06_ow       [17:38] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.4   -0.043    -0.29       nu:  0.4      1.1     0.19)
+   Group converged on 18th try         (mu:  -2.3971   -0.078806    -0.28528       nu:  0.40339      1.0414      0.1946)
+   Calculating BIC via samples
+Model 30 - bm11_euw       [17:40] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.7    -0.78     -3.8        4       nu:  0.36      1.4      1.1      1.5)
+         Attempting group fit (within EV): 20th try         (mu:  -2.7    -0.79     -3.5      3.6       nu:  0.36      1.4        1      1.5)
+         Attempting group fit (within EV): 30th try         (mu:  -2.7    -0.79     -3.4      3.5       nu:  0.36      1.4        1      1.5)
+         Attempting group fit (within EV): 40th try         (mu:  -2.7    -0.79     -3.4      3.5       nu:  0.36      1.4        1      1.5)
+   Group converged on 44th try         (mu:  -2.6728    -0.78595      -3.414      3.4594       nu:  0.36375      1.4081      1.0291      1.5018)
+   Calculating BIC via samples
+Model 31 - bm12_evw       [17:46] ##############
+Requested iteration #1 --------------------------------------------------------
+Couldn't fit p34_TB at all for  bm12_evw (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -2.5       -1     -1.5    -0.24       nu:  0.47      1.2      1.1     0.49)
+   Group converged on 11th try         (mu:  -2.4826     -1.0145     -1.5361    -0.23514       nu:  0.47314       1.204      1.0685     0.48927)
+   Calculating BIC via samples
+Model 32 - bm13_eow       [17:49] ##############
+Requested iteration #1 --------------------------------------------------------
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.3819 6.1985 -1.0126 -0.1179]
+     nu: [1x4 double]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-2.3819 5.7342 -1.0126 -0.1179]
+     nu: [0.5513 1.2187e+03 2.6497 0.3129]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.4   -0.018    -0.45    -0.21       nu:  0.5      1.2      1.2     0.17)
+   Group converged on 18th try         (mu:  -2.3778   -0.072064    -0.44909    -0.21315       nu:  0.50136      1.1421      1.2269     0.16692)
+   Calculating BIC via samples
+Model 33 - bm17_yw       [17:52] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.5     -1.3       -4       nu:  0.38      1.6      4.1)
+   Group converged on 10th try         (mu:  -2.4612      -1.316     -4.0382       nu:  0.37954      1.5534      4.0862)
+   Calculating BIC via samples
+Model 34 - bm19_eyw       [17:55] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-2.6762 74.0054 -4.4900 14.2538]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-2.7013 3.0931 -5.4274 18.7303]
+     nu: [0.4627 900.4607 5.0277 21.2430]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.7    -0.76     -4.2       14       nu:  0.35      1.4      1.1      1.2)
+         Attempting group fit (within EV): 20th try         (mu:  -2.7    -0.77       -4       13       nu:  0.35      1.4      1.1      1.2)
+         Attempting group fit (within EV): 30th try         (mu:  -2.7    -0.77     -3.8       12       nu:  0.35      1.4      1.1      1.2)
+         Attempting group fit (within EV): 40th try         (mu:  -2.7    -0.78     -3.7       11       nu:  0.36      1.4      1.1      1.2)
+         Attempting group fit (within EV): 50th try         (mu:  -2.7    -0.78     -3.6       11       nu:  0.36      1.4      1.1      1.2)
+         Attempting group fit (within EV): 60th try         (mu:  -2.7    -0.78     -3.5       11       nu:  0.36      1.4      1.1      1.2)
+         Attempting group fit (within EV): 70th try         (mu:  -2.7    -0.78     -3.5       10       nu:  0.36      1.4      1.1      1.2)
+         Attempting group fit (within EV): 80th try         (mu:  -2.7    -0.78     -3.5       10       nu:  0.36      1.4      1.1      1.2)
+         Attempting group fit (within EV): 90th try         (mu:  -2.7    -0.78     -3.5       10       nu:  0.36      1.4      1.1      1.2)
+   Group converged on 92th try         (mu:  -2.70536    -0.780073     -3.46576      10.2265       nu:  0.35784      1.4203        1.11      1.2084)
+   Calculating BIC via samples
+Model 35 - bm21_kw       [18:4] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.5     0.54    -0.39       nu:  0.4      1.3     0.28)
+         Attempting group fit (within EV): 20th try         (mu:  -2.5      0.2    -0.39       nu:  0.39      1.2     0.28)
+   Group converged on 26th try         (mu:  -2.4833     0.19329    -0.38865       nu:  0.39459      1.1546     0.27628)
+   Calculating BIC via samples
+Model 36 - bm23_ekw       [18:8] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.5     0.41    -0.39     -0.3       nu:  0.45      1.3      1.2     0.23)
+         Attempting group fit (within EV): 20th try         (mu:  -2.5     0.11    -0.39     -0.3       nu:  0.45      1.2      1.2     0.23)
+   Group converged on 24th try         (mu:  -2.4607      0.1078     -0.3947    -0.30064       nu:  0.44596      1.1958      1.1713     0.23488)
+   Calculating BIC via samples
+Model 37 - bpm01       [18:12] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  6.700495e-19.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [5.3836 -4.3001 -1.2819]
+     nu: [1x3 double]
+    nui: [3x3 double]
+     NewZ:
+     mu: [4.3816 -4.3001 -2.0198]
+     nu: [1.8603e+03 245.6956 493.4936]
+    nui: [3x3 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.9     -3.2       nu:  0.41     0.99      1.4)
+   Group converged on 16th try         (mu:  -2.3431     -3.9464     -3.2455       nu:  0.40944     0.99795       1.434)
+   Calculating BIC via samples
+Model 38 - bpm03_e       [18:15] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [1.8654 -27.9618 11.4592 -1.4099]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [2.3263 -7.2614 4.3111 -1.3970]
+     nu: [1.4193e+03 2.0139e+03 2.8162e+03 1.5191]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.5     -4.7    -0.73     -1.4       nu:  0.42      1.1      1.2        1)
+         Attempting group fit (within EV): 20th try         (mu:  -2.5     -4.6    -0.73     -1.4       nu:  0.42        1      1.2        1)
+   Group converged on 20th try         (mu:  -2.5115     -4.6329    -0.73483     -1.3511       nu:  0.41945       1.047      1.2318      1.0276)
+   Calculating BIC via samples
+Model 39 - bpm04_uw       [18:19] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-0.5236 -46.6206 -74.8328 -1.0473e+04]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [-0.0066 -8.0228 2.6643 -1.5549]
+     nu: [930.3199 3.1239e+03 1.7175e+03 1.8784]
+    nui: [4x4 double]
+         Attempting group fit (within EV): 10th try         (mu:  -2.4     -4.2       -1     -1.8       nu:  0.44      1.1      1.4      1.7)
+   Group converged on 17th try         (mu:  -2.3601     -4.2105     -1.0214     -1.7753       nu:  0.44159      1.0529      1.4048       1.672)
+   Calculating BIC via samples
+Model 40 - bpm05_vw       [18:22] ##############
+Requested iteration #1 --------------------------------------------------------
+   Correcting for softmax base ==0 (beta=19.972)
+   Correcting for softmax base ==0 (beta=19.972)
+   Correcting for softmax base ==0 (beta=19.972)
+   Correcting for softmax base ==0 (beta=19.972)
+   Correcting for softmax base ==0 (beta=19.972)
+   Correcting for softmax base ==0 (beta=17.0202)
+   Correcting for softmax base ==0 (beta=17.0202)
+   Correcting for softmax base ==0 (beta=17.0202)
+   Correcting for softmax base ==0 (beta=17.0202)
+   Correcting for softmax base ==0 (beta=17.0202)
+   Correcting for softmax base ==0 (beta=16.1249)
+   Correcting for softmax base ==0 (beta=16.1249)
+   Correcting for softmax base ==0 (beta=16.1249)
+   Correcting for softmax base ==0 (beta=16.1249)
+   Correcting for softmax base ==0 (beta=16.1249)
+   Correcting for softmax base ==0 (beta=16.0721)
+   Correcting for softmax base ==0 (beta=16.0721)
+   Correcting for softmax base ==0 (beta=16.0721)
+   Correcting for softmax base ==0 (beta=16.0721)
+   Correcting for softmax base ==0 (beta=16.0721)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0723)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0723)
+   Correcting for softmax base ==0 (beta=16.0728)
+   Correcting for softmax base ==0 (beta=16.0723)
+   Correcting for softmax base ==0 (beta=16.0723)
+   Correcting for softmax base ==0 (beta=16.0723)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+   Correcting for softmax base ==0 (beta=16.0718)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is close to singular or badly scaled. Results may
+be inaccurate. RCOND =  1.591749e-18.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',288,1)">a1c_hierarfit_models_RUN at 288</a>] 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [33.3754 -13.0024 10.2811 1.7631]
+     nu: [Inf Inf Inf Inf]
+    nui: [4x4 double]
+     NewZ:
+     mu: [4.1738 -14.3504 5.5775 2.0477]
+     nu: [1.0635e+04 9.2909e+03 2.3993e+03 20.5761]
+    nui: [4x4 double]
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+         Attempting group fit (within EV): 10th try         (mu:  -2.7     -3.5      1.9      1.4       nu:  0.42      1.1      1.7      1.5)
+         Attempting group fit (within EV): 20th try         (mu:  -2.7     -3.5    0.018      1.4       nu:  0.41      1.1      1.3      1.5)
+         Attempting group fit (within EV): 30th try         (mu:  -2.7     -3.8    -0.76     0.84       nu:  0.38        1      1.5     0.51)
+   Group converged on 39th try         (mu:  -2.661     -3.8652    -0.78781      0.8317       nu:  0.37524      1.0578      1.5273      0.5038)
+   Calculating BIC via samples
+Model 41 - bpm06_ow       [18:28] ##############
+Requested iteration #1 --------------------------------------------------------
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+   Correcting for softmax base ==0 (beta=20)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+Couldn't fit p06_KB at all for  bpm06_ow (>3 attempts)
+[Warning: Matrix is singular to working precision.] 
+[> In <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',278,1)">a1c_hierarfit_models_RUN at 278</a>] 
+[War

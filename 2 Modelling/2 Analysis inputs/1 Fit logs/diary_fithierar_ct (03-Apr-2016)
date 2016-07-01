@@ -1,0 +1,132 @@
+==============================================================
+START Timestamp: 03-Apr-2016 21:14 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  ct
+ 
+96 Models:
+    'bj01'
+    'bj03_e'
+    'bj04_uw'
+    'bj05_vw'
+    'bj06_ow'
+    'bj11_euw'
+    'bj12_evw'
+    'bj13_eow'
+    'bj17_yw'
+    'bj19_eyw'
+    'bj21_kw'
+    'bj23_ekw'
+    'bpj01'
+    'bpj03_e'
+    'bpj04_uw'
+    'bpj05_vw'
+    'bpj06_ow'
+    'bpj11_euw'
+    'bpj12_evw'
+    'bpj13_eow'
+    'bpj17_yw'
+    'bpj19_eyw'
+    'bpj21_kw'
+    'bpj23_ekw'
+    'bjm01'
+    'bjm03_e'
+    'bjm04_uw'
+    'bjm05_vw'
+    'bjm06_ow'
+    'bjm11_euw'
+    'bjm12_evw'
+    'bjm13_eow'
+    'bjm17_yw'
+    'bjm19_eyw'
+    'bjm21_kw'
+    'bjm23_ekw'
+    'bpjm01'
+    'bpjm03_e'
+    'bpjm04_uw'
+    'bpjm05_vw'
+    'bpjm06_ow'
+    'bpjm11_euw'
+    'bpjm12_evw'
+    'bpjm13_eow'
+    'bpjm17_yw'
+    'bpjm19_eyw'
+    'bpjm21_kw'
+    'bpjm23_ekw'
+    'bji01'
+    'bji03_e'
+    'bji04_uw'
+    'bji05_vw'
+    'bji06_ow'
+    'bji11_euw'
+    'bji12_evw'
+    'bji13_eow'
+    'bji17_yw'
+    'bji19_eyw'
+    'bji21_kw'
+    'bji23_ekw'
+    'bpji01'
+    'bpji03_e'
+    'bpji04_uw'
+    'bpji05_vw'
+    'bpji06_ow'
+    'bpji11_euw'
+    'bpji12_evw'
+    'bpji13_eow'
+    'bpji17_yw'
+    'bpji19_eyw'
+    'bpji21_kw'
+    'bpji23_ekw'
+    'bjmi01'
+    'bjmi03_e'
+    'bjmi04_uw'
+    'bjmi05_vw'
+    'bjmi06_ow'
+    'bjmi11_euw'
+    'bjmi12_evw'
+    'bjmi13_eow'
+    'bjmi17_yw'
+    'bjmi19_eyw'
+    'bjmi21_kw'
+    'bjmi23_ekw'
+    'bpjmi01'
+    'bpjmi03_e'
+    'bpjmi04_uw'
+    'bpjmi05_vw'
+    'bpjmi06_ow'
+    'bpjmi11_euw'
+    'bpjmi12_evw'
+    'bpjmi13_eow'
+    'bpjmi17_yw'
+    'bpjmi19_eyw'
+    'bpjmi21_kw'
+    'bpjmi23_ekw'
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -0.2     to    0.2
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bj01       [21:14] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.6161     -2.7133       nu:  0.24558      0.3464)
+   Calculating BIC via samples
+{Error using <a href="matlab:helpUtils.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Partial hierarfit ct (03-Apr-2016 - 21 hrs).mat' because '2 Analysis
+inputs\PartialFits' does not exist.
+Error in <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models_RUN', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m', 401)" style="font-weight:bold">a1c_hierarfit_models_RUN</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models_RUN.m',401,0)">line 401</a>)
+    w.c=clock; save(['2 Analysis inputs' filesep 'PartialFits' filesep 'Partial
+    hierarfit ' details.task ' (' date ' - ' num2str(w.c(4)) ' hrs)']);} 
+where
+where = 
+    where: 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models'
+a1c_hierarfit_models_RUN

@@ -1,0 +1,671 @@
+==============================================================
+START Timestamp: 29-Mar-2016 21:39 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+196 Models:
+    'bi01'
+    'bi02_f'
+    'bi03_e'
+    'bi04_uw'
+    'bi05_vw'
+    'bi06_ow'
+    'bi07_fe'
+    'bi08_fuw'
+    'bi09_fvw'
+    'bi10_fow'
+    'bi11_euw'
+    'bi12_evw'
+    'bi13_eow'
+    'bi14_feuw'
+    'bi15_fevw'
+    'bi16_feow'
+    'bi17_yw'
+    'bi18_fyw'
+    'bi19_eyw'
+    'bi20_feyw'
+    'bi21_kw'
+    'bi22_fkw'
+    'bi23_ekw'
+    'bi24_fekw'
+    'bpi01'
+    'bpi02_f'
+    'bpi03_e'
+    'bpi04_uw'
+    'bpi05_vw'
+    'bpi06_ow'
+    'bpi07_fe'
+    'bpi08_fuw'
+    'bpi09_fvw'
+    'bpi10_fow'
+    'bpi11_euw'
+    'bpi12_evw'
+    'bpi13_eow'
+    'bpi14_feuw'
+    'bpi15_fevw'
+    'bpi16_feow'
+    'bpi17_yw'
+    'bpi18_fyw'
+    'bpi19_eyw'
+    'bpi20_feyw'
+    'bpi21_kw'
+    'bpi22_fkw'
+    'bpi23_ekw'
+    'bpi24_fekw'
+    'bmi01'
+    'bmi02_f'
+    'bmi03_e'
+    'bmi04_uw'
+    'bmi05_vw'
+    'bmi06_ow'
+    'bmi07_fe'
+    'bmi08_fuw'
+    'bmi09_fvw'
+    'bmi10_fow'
+    'bmi11_euw'
+    'bmi12_evw'
+    'bmi13_eow'
+    'bmi14_feuw'
+    'bmi15_fevw'
+    'bmi16_feow'
+    'bmi17_yw'
+    'bmi18_fyw'
+    'bmi19_eyw'
+    'bmi20_feyw'
+    'bmi21_kw'
+    'bmi22_fkw'
+    'bmi23_ekw'
+    'bmi24_fekw'
+    'bpmi01'
+    'bpmi02_f'
+    'bpmi03_e'
+    'bpmi04_uw'
+    'bpmi05_vw'
+    'bpmi06_ow'
+    'bpmi07_fe'
+    'bpmi08_fuw'
+    'bpmi09_fvw'
+    'bpmi10_fow'
+    'bpmi11_euw'
+    'bpmi12_evw'
+    'bpmi13_eow'
+    'bpmi14_feuw'
+    'bpmi15_fevw'
+    'bpmi16_feow'
+    'bpmi17_yw'
+    'bpmi18_fyw'
+    'bpmi19_eyw'
+    'bpmi20_feyw'
+    'bpmi21_kw'
+    'bpmi22_fkw'
+    'bpmi23_ekw'
+    'bpmi24_fekw'
+    'bjm17_yw'
+    'bjm18_fyw'
+    'bjm19_eyw'
+    'bjm20_feyw'
+    'bji01'
+    'bji02_f'
+    'bji03_e'
+    'bji04_uw'
+    'bji05_vw'
+    'bji06_ow'
+    'bji07_fe'
+    'bji08_fuw'
+    'bji09_fvw'
+    'bji10_fow'
+    'bji11_euw'
+    'bji12_evw'
+    'bji13_eow'
+    'bji14_feuw'
+    'bji15_fevw'
+    'bji16_feow'
+    'bji17_yw'
+    'bji18_fyw'
+    'bji19_eyw'
+    'bji20_feyw'
+    'bji21_kw'
+    'bji22_fkw'
+    'bji23_ekw'
+    'bji24_fekw'
+    'bpji01'
+    'bpji02_f'
+    'bpji03_e'
+    'bpji04_uw'
+    'bpji05_vw'
+    'bpji06_ow'
+    'bpji07_fe'
+    'bpji08_fuw'
+    'bpji09_fvw'
+    'bpji10_fow'
+    'bpji11_euw'
+    'bpji12_evw'
+    'bpji13_eow'
+    'bpji14_feuw'
+    'bpji15_fevw'
+    'bpji16_feow'
+    'bpji17_yw'
+    'bpji18_fyw'
+    'bpji19_eyw'
+    'bpji20_feyw'
+    'bpji21_kw'
+    'bpji22_fkw'
+    'bpji23_ekw'
+    'bpji24_fekw'
+    'bjmi01'
+    'bjmi02_f'
+    'bjmi03_e'
+    'bjmi04_uw'
+    'bjmi05_vw'
+    'bjmi06_ow'
+    'bjmi07_fe'
+    'bjmi08_fuw'
+    'bjmi09_fvw'
+    'bjmi10_fow'
+    'bjmi11_euw'
+    'bjmi12_evw'
+    'bjmi13_eow'
+    'bjmi14_feuw'
+    'bjmi15_fevw'
+    'bjmi16_feow'
+    'bjmi17_yw'
+    'bjmi18_fyw'
+    'bjmi19_eyw'
+    'bjmi20_feyw'
+    'bjmi21_kw'
+    'bjmi22_fkw'
+    'bjmi23_ekw'
+    'bjmi24_fekw'
+    'bpjmi01'
+    'bpjmi02_f'
+    'bpjmi03_e'
+    'bpjmi04_uw'
+    'bpjmi05_vw'
+    'bpjmi06_ow'
+    'bpjmi07_fe'
+    'bpjmi08_fuw'
+    'bpjmi09_fvw'
+    'bpjmi10_fow'
+    'bpjmi11_euw'
+    'bpjmi12_evw'
+    'bpjmi13_eow'
+    'bpjmi14_feuw'
+    'bpjmi15_fevw'
+    'bpjmi16_feow'
+    'bpjmi17_yw'
+    'bpjmi18_fyw'
+    'bpjmi19_eyw'
+    'bpjmi20_feyw'
+    'bpjmi21_kw'
+    'bpjmi22_fkw'
+    'bpjmi23_ekw'
+    'bpjmi24_fekw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 111)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',111,0)">line 111</a>)
+} 
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',70,1)">a1a_fit_models at 70</a>} 
+{Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('path', '/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m', 110)" style="font-weight:bold">path</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',110,0)">line 110</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('addpath', '/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m', 87)" style="font-weight:bold">addpath</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/addpath.m',87,0)">line 87</a>)
+    path(p, mp);
+
+In <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 71)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',71,0)">line 71</a>)
+    addpath([where.where filesep '1
+    Value functions' Valfxn_type
+    filesep 'b']);
+} 
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',70,1)">a1a_fit_models at 70</a>} 
+==============================================================
+START Timestamp: 29-Mar-2016 21:39 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:39] ##############
+Subject 1  (p01_GV)
+Failed: p01_GV  -  bpjio01    iteration 1
+Failed: p01_GV  -  bpjio01    iteration 2
+Failed: p01_GV  -  bpjio01    iteration 3
+Failed: p01_GV  -  bpjio01    iteration 4
+Failed: p01_GV  -  bpjio01    iteration 5
+Failed: p01_GV  -  bpjio01    iteration 6
+Failed: p01_GV  -  bpjio01    iteration 7
+Failed: p01_GV  -  bpjio01    iteration 8
+Failed: p01_GV  -  bpjio01    iteration 9
+Failed: p01_GV  -  bpjio01    iteration 10
+Failed: p01_GV  -  bpjio01    iteration 11
+Failed: p01_GV  -  bpjio01    iteration 12
+Failed: p01_GV  -  bpjio01    iteration 13
+Failed: p01_GV  -  bpjio01    iteration 14
+Failed: p01_GV  -  bpjio01    iteration 15
+Failed: p01_GV  -  bpjio01    iteration 16
+Failed: p01_GV  -  bpjio01    iteration 17
+Failed: p01_GV  -  bpjio01    iteration 18
+Failed: p01_GV  -  bpjio01    iteration 19
+Failed: p01_GV  -  bpjio01    iteration 20
+Failed: p01_GV  -  bpjio01    iteration 21
+Failed: p01_GV  -  bpjio01    iteration 22
+Failed: p01_GV  -  bpjio01    iteration 23
+Failed: p01_GV  -  bpjio01    iteration 24
+Failed: p01_GV  -  bpjio01    iteration 25
+Failed: p01_GV  -  bpjio01    iteration 26
+Failed: p01_GV  -  bpjio01    iteration 27
+Failed: p01_GV  -  bpjio01    iteration 28
+Failed: p01_GV  -  bpjio01    iteration 29
+Failed: p01_GV  -  bpjio01    iteration 30
+Failed: p01_GV  -  bpjio01    iteration 31
+Failed: p01_GV  -  bpjio01    iteration 32
+Failed: p01_GV  -  bpjio01    iteration 33
+Failed: p01_GV  -  bpjio01    iteration 34
+Failed: p01_GV  -  bpjio01    iteration 35
+Failed: p01_GV  -  bpjio01    iteration 36
+Failed: p01_GV  -  bpjio01    iteration 37
+Failed: p01_GV  -  bpjio01    iteration 38
+Failed: p01_GV  -  bpjio01    iteration 39
+Failed: p01_GV  -  bpjio01    iteration 40
+Failed: p01_GV  -  bpjio01    iteration 41
+Failed: p01_GV  -  bpjio01    iteration 42
+Failed: p01_GV  -  bpjio01    iteration 43
+Failed: p01_GV  -  bpjio01    iteration 44
+Failed: p01_GV  -  bpjio01    iteration 45
+Failed: p01_GV  -  bpjio01    iteration 46
+Failed: p01_GV  -  bpjio01    iteration 47
+Failed: p01_GV  -  bpjio01    iteration 48
+Failed: p01_GV  -  bpjio01    iteration 49
+Failed: p01_GV  -  bpjio01    iteration 50
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 223)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',223,0)">line 223</a>)
+        r_res{m,2}(s,2)=ws.bestiter(2);} 
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',70,1)">a1a_fit_models at 70</a>} 
+==============================================================
+START Timestamp: 29-Mar-2016 21:40 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:40] ##############
+Subject 1  (p01_GV)
+{Error using <a href="matlab:helpUtils.errorDocCallback('eval')" style="font-weight:bold">eval</a>
+Undefined function 'bpjio01' for
+input arguments of type 'cell'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('f_nllsoftmax_lapse', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax_lapse.m', 37)" style="font-weight:bold">f_nllsoftmax_lapse</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax_lapse.m',37,0)">line
+37</a>)
+eval(['V=' ValueFxn '(x, {[] data,
+fPar,col});'])
+
+Error in
+<a href="matlab:helpUtils.errorDocCallback('@(x)f_nllsoftmax_lapse(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)', '', 0)" style="font-weight:bold">@(x)f_nllsoftmax_lapse(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)</a>
+
+
+Error in <a href="matlab:helpUtils.errorDocCallback('fminunc', '/Applications/MATLAB_R2012a.app/toolbox/optim/optim/fminunc.m', 250)" style="font-weight:bold">fminunc</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/optim/optim/fminunc.m',250,0)">line 250</a>)
+        f =
+        feval(funfcn{3},x,varargin{:});
+        
+Error in <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 182)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',182,0)">line 182</a>)
+                    [wi.par, wi.L,
+                    wi.exit,
+                    wi.output,
+                    wi.grad,
+                    wi.hessians]=fminunc(@(x)f_nllsoftmax_lapse(x,
+                    {details.models{m,1}
+                    ws.data
+                    details.fixedpar
+                    col},0,0),
+                    wi.startpar,
+                    w.options);
+
+Caused by:
+    Failure in initial user-supplied
+    objective function evaluation.
+    FMINUNC cannot continue.
+} 
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',70,1)">a1a_fit_models at 70</a>} 
+==============================================================
+START Timestamp: 29-Mar-2016 21:40 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:40] ##############
+Subject 1  (p01_GV)
+{Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('clearvars', '/Applications/MATLAB_R2012a.app/toolbox/matlab/general/clearvars.m', 93)" style="font-weight:bold">clearvars</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/clearvars.m',93,0)">line 93</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('bji01', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/bji/bji01.m', 75)" style="font-weight:bold">bji01</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/bji/bji01.m',75,0)">line 75</a>)
+clearvars EV_NoSee EnvThreat
+ExploreCost FixedLoss NTok
+V_AccGivNoSee data_cF nT_cF
+pAccGivNoBombSeen pActBomb posVacc
+posVrej ppActBomb ppABscaled miscvar
+EnvThreatDistort ov
+
+In <a href="matlab:helpUtils.errorDocCallback('bpjio01', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/misc/bpjio01.m', 21)" style="font-weight:bold">bpjio01</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/misc/bpjio01.m',21,0)">line 21</a>)
+[ V ] = bji01(x, modelinput);
+
+In <a href="matlab:helpUtils.errorDocCallback('f_nllsoftmax_lapse', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax_lapse.m', 37)" style="font-weight:bold">f_nllsoftmax_lapse</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax_lapse.m',37,0)">line 37</a>)
+eval(['V=' ValueFxn '(x, {[] data,
+fPar,col});'])
+
+In
+<a href="matlab:helpUtils.errorDocCallback('@(x)f_nllsoftmax_lapse(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)', '', 0)" style="font-weight:bold">@(x)f_nllsoftmax_lapse(x,{details.models{m,1},ws.data,details.fixedpar,col},0,0)</a>
+
+
+In
+/Applications/MATLAB_R2012a.app/toolbox/optim/optim/private/lineSearch.p>bracketingPhase
+(line 134)
+
+
+In
+/Applications/MATLAB_R2012a.app/toolbox/optim/optim/private/lineSearch.p>lineSearch
+(line 65)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('fminusub', '/Applications/MATLAB_R2012a.app/toolbox/optim/optim/private/fminusub.m', 205)" style="font-weight:bold">fminusub</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/optim/optim/private/fminusub.m',205,0)">line 205</a>)
+    [alpha,f,grad,exitflagLnSrch,funcCountLnSrch,faultTolStruct]
+    = ...
+
+In <a href="matlab:helpUtils.errorDocCallback('fminunc', '/Applications/MATLAB_R2012a.app/toolbox/optim/optim/fminunc.m', 403)" style="font-weight:bold">fminunc</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/optim/optim/fminunc.m',403,0)">line 403</a>)
+   [x,FVAL,GRAD,HESSIAN,EXITFLAG,OUTPUT]
+   = fminusub(funfcn,x, ...
+
+In <a href="matlab:helpUtils.errorDocCallback('a1a_fit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m', 183)" style="font-weight:bold">a1a_fit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',183,0)">line 183</a>)
+                    [wi.par, wi.L,
+                    wi.exit,
+                    wi.output,
+                    wi.grad,
+                    wi.hessians]=fminunc(@(x)f_nllsoftmax_lapse(x,
+                    {details.models{m,1}
+                    ws.data
+                    details.fixedpar
+                    col},0,0),
+                    wi.startpar,
+                    w.options);
+} 
+a1a_fit_models
+{Warning: Duplicate directory name:
+/Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',70,1)">a1a_fit_models at 70</a>} 
+==============================================================
+START Timestamp: 29-Mar-2016 21:41 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:41] ##############
+Subject 1  (p01_GV)
+x(:,4)
+
+ans =
+
+    -1
+
+omega= x(:,4);  % omega (multiplier on variance)
+
+==============================================================
+START Timestamp: 29-Mar-2016 21:57 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpjio01'
+    'bpjio08_fuw'
+    'bpjio11_euw'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpjio01       [21:57] ##############
+Subject 1  (p01_GV)
+% Set up data and parameters for cF task
+data_cF=data(data(:, col.Task)==1,:); nT_cF = size(data_cF,1);  % cF
+{Undefined variable "col" or class "col.Task".
+} 
+% If model contains both i and e, i is a residual of e (otherwise left as is)
+if isempty(strfind(modelinput{1}, 'e'))==0  
+    DistortVaccExp=  DistortVaccExp - x(:, strfind(modelinput{1}, 'e'));
+end
+
+%% General setup
+
+data=modelinput{2}; fPar=modelinput{3}; col=modelinput{4};
+nPP=size(x,1);  % No. of parameter points (unique combinations of parameter values for all free parameters covered by grid)
+
+b=beta;  % Save for ct
+{Error using <a href="matlab:helpUtils.errorDocCallback('beta', '/Applications/MATLAB_R2012a.app/toolbox/matlab/specfun/beta.m', 21)" style="font-weight:bold">beta</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/specfun/beta.m',21,0)">line 21</a>)
+Not enough input arguments.
+} 
+beta=20./(1+exp(-x(:,1)));            % 0 < beta < 20
+EnvThreatDistort= 20./(1+exp(-x(:,2))) ;       % 0 < j < 20
+DistortVaccExp=40./(1+exp(-x(:,3)))  - 20;  % -20 < i < 20 
+omega= x(:,4);  % omega (multiplier on variance)
+
+% If model contains both i and e, i is a residual of e (otherwise left as is)
+if isempty(strfind(modelinput{1}, 'e'))==0  
+    DistortVaccExp=  DistortVaccExp - x(:, strfind(modelinput{1}, 'e'));
+end
+
+%% General setup
+
+data=modelinput{2}; fPar=modelinput{3}; col=modelinput{4};
+nPP=size(x,1);  % No. of parameter points (unique combinations of parameter values for all free parameters covered by grid)
+
+b=beta;  % Save for ct
+etd=EnvThreatDistort;
+dve=DistortVaccExp;
+
+% % Simplifications for debugging.
+% dd=nan(36,15); k=1; for e=1:6; for n=1:6; dd(k,:)=data(find(data(:,col.EnvThreat)==e/6 & data(:,col.NTokens)==n*2, 1, 'first'),:); k=k+1; end; end
+% data=dd; disp('Fake data!!'); data=sortrows(data, [ col.NTokens -col.EnvThreat]); cell=data(:,[ col.NTokens col.EnvThreat]); reshape(cell(:,1),6,6) reshape(cell(:,2),6,6)
+
+%% Conflict task
+
+% Set up data and parameters for cF task
+data_cF=data(data(:, col.Task)==1,:); nT_cF = size(data_cF,1);  % cF
+order_cF=data(data(:, col.Task)==1,col.Trialnum); 
+V_cF=nan(nPP, nT_cF ,3);
+FixedLoss=repmat(fPar.cF_FL,[nPP nT_cF]);  miscvar.FixedLoss=fPar.cF_FL;
+ExploreCost=repmat(fPar.cF_EC,[nPP nT_cF]);   miscvar.ExploreCost=fPar.cF_EC;
+
+% Distort EnvThreat + everything knocks on
+EnvThreat=power(data_cF(:,col.EnvThreat), EnvThreatDistort);
+[ov] = fcf_changeEnvThreat(EnvThreat, data_cF(:,col.NTokens), miscvar);
+%
+pActBomb=repmat(ov.pLoss',[nPP 1]);   % Task-space variables (knock on effects)
+NTok=repmat(data_cF(:,col.NTokens)',[nPP 1]);
+EnvThreat=repmat(EnvThreat',[nPP 1]); 
+beta=repmat(b, [1 nT_cF]);    % Free parameters
+DistortVaccExp=repmat(dve, [1 nT_cF]) ;
+ov
+
+ov = 
+
+      EnvThreat: [648x1 double]
+           NTok: [648x1 double]
+        NTokens: [648x1 double]
+          pLoss: [648x1 double]
+        Entropy: [648x1 double]
+    EntropyNTok: [648x1 double]
+       VExplore: [648x1 double]
+             EV: [648x1 double]
+         EVGain: [648x1 double]
+         EVLoss: [648x1 double]
+     EVConflict: [648x1 double]
+    PavConflict: [648x1 double]
+
+a1a_fit_models
+{Warning: Duplicate directory name: /Users/EleanorL/matlab.} 
+{> In <a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/path.m',34,1)">path at 34</a>
+  In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1a_fit_models.m',69,1)">a1a_fit_models at 69</a>} 
+==============================================================
+START Timestamp: 29-Mar-2016 22:17 hrs
+ 
+Requested: 20 subjects, 50 iterations per model
+details.task type:  cF
+ 
+3 Models:
+    'bpi04_uwo'
+    'bpji08_fuwo'
+    'bpji04_uwo'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      o:      -10     to    10
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - bpi04_uwo       [22:17] ##############
+Subject 1  (p01_GV)
+data=modelinputs{2}; fPar=modelinputs{3}; col=modelinputs{4};
+
+ExploreBonus=x(:,4);
+omega=x(:,5);
+
+%% EV calculation using basic value function
+
+% Get parameters in model
+modname=mfilename; modname(strfind(modname, '_')-2:strfind(modname, '_'))=[];
+
+[ V ] = bpi01(x, {modname data, fPar,col});
+
+% Add variable Exploration bonus x Uncertainty/Entropy
+nTrials=size(data,1); nPP=size(x,1); 
+V(:,:,3)=V(:,:,3)  +   repmat(ExploreBonus, [1 nTrials]).*repmat(data(:,col.Entropy)', [nPP 1]);
+edit bi01
+clear all
+clc

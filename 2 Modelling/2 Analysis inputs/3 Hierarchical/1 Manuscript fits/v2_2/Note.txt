@@ -1,0 +1,1 @@
+Fits from here are NOT linked between cF and ct. i.e. parameters (e.g. b,p) that should apply equally to cf and ct are not forced to covary together

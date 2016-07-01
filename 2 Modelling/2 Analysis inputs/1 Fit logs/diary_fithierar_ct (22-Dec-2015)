@@ -1,0 +1,36 @@
+==============================================================
+START Timestamp: 22-Dec-2015 15:46 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  ct
+ 
+1 Models:
+    'b01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [15:46] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.7072       nu:  0.2221)
+   Calculating BIC via samples
+Returning parameters from fit-space to true paramenter space ##############
+====================================
+END Timestamp: 22-Dec-2015 15:49 hrs
+INSTRUCTION: Results variables (prefix r):r_iterations, r_res, r_models
+                     [r_res: Col 1= Model, Col 2=Subject fits, 3=Model BIC, Col 4=N valid subjects, Col 6 onwards=Mean parameter values]
+ 
+Check command-window log for poor fits; See 'further instructions' at end of script for Bayes factor & model weights
+ 
+====================================

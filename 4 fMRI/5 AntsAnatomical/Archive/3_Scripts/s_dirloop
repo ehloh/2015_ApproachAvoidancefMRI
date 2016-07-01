@@ -1,0 +1,21 @@
+#! /bin/bash
+clear
+
+where=/mnt/host/cF_study/3_Scripts/testfol
+
+#files=$(ls -t * | head -1)
+
+
+cd $where
+FuncList=($(ls -t))
+
+
+
+	for i in ${FuncList[*]}
+		do
+
+
+		echo '   Adjusting contrast '$i
+
+
+	 done

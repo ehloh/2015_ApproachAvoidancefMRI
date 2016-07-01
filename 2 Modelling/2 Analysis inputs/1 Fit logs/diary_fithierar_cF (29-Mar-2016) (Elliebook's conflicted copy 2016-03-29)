@@ -1,0 +1,273 @@
+==============================================================
+START Timestamp: 29-Mar-2016 19:55 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 123)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',123,0)">line 123</a>)
+
+} 
+a1c_hierarfit_models
+{Error: <a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',68,7)">File: a1c_hierarfit_models.m Line: 68 Column: 7
+</a>Unexpected MATLAB operator.
+} 
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:56 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+4 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   {Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', 'C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m', 127)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('C:\Users\e.loh\Dropbox\SCRIPPS\2 Explore experiment\3 Analysis\4 Fit computational models\a1c_hierarfit_models.m',127,0)">line 127</a>)
+
+} 
+clear
+pack
+a1c_hierarfit_models
+==============================================================
+START Timestamp: 29-Mar-2016 19:59 hrs
+ 
+Requested: 20 subjects, 1 iterations per model
+details.task type:  cF
+ 
+8 Models:
+    'b01'
+    'bp01'
+    'bm01'
+    'bpm01'
+    'bi01'
+    'bpi01'
+    'bmi01'
+    'bpmi01'
+
+ 
+Paramater ranges:
+      b:      0.01     to    8
+      p:      0.001     to    0.28333
+      m:      0.2     to    5
+      a:      0     to    20
+      i:      -15     to    15
+      f:      -20     to    -8
+      e:      -2     to    4
+      w:      0.01     to    10
+      j:      0.2     to    5
+ 
+Hit enter to start                                   
+==============================================================
+Model 1 - b01       [19:59] ##############
+Requested iteration #1 --------------------------------------------------------
+   Group converged on 5th try         (mu:  -2.5845       nu:  0.36555)
+   Calculating BIC via samples
+Model 2 - bp01       [20:3] ##############
+Requested iteration #1 --------------------------------------------------------
+         Attempting group fit (within EV): 10th try         (mu:  -2.3       -3       nu:  0.48        1)
+   Group converged on 15th try         (mu:  -2.2719     -3.0141       nu:  0.48047      1.0299)
+   Calculating BIC via samples
+Model 3 - bm01       [20:25] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',288,1)">a1c_hierarfit_models at 288</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.1741 -7.1845]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.4722 -3.0466]
+     nu: [0.3131 0.4343]
+    nui: [2x2 double]
+
+   Group converged on 9th try         (mu:  -2.7848     -3.3003       nu:  0.6167     0.59628)
+   Calculating BIC via samples
+Model 4 - bpm01       [20:30] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',288,1)">a1c_hierarfit_models at 288</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [7.6753 -1.7755e+03 -34.1089]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [5.4762 -0.0409 -2.0088]
+     nu: [1.1265e+03 2.2373 236.1307]
+    nui: [3x3 double]
+
+Couldn't fit p01_GV at all for  bpm01 (>3 attempts)
+Couldn't fit p10_RC at all for  bpm01 (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.5       -3       nu:  0.57      0.9      0.3)
+   Group converged on 16th try         (mu:  -2.3438     -3.4887     -2.9912       nu:  0.57456     0.91008     0.29973)
+   Calculating BIC via samples
+Model 5 - bi01       [20:42] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',288,1)">a1c_hierarfit_models at 288</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.5685 -0.4705]
+     nu: [Inf Inf]
+    nui: [2x2 double]
+
+     NewZ:
+     mu: [-2.4985 -0.0924]
+     nu: [0.4096 79.4670]
+    nui: [2x2 double]
+
+         Attempting group fit (within EV): 10th try         (mu:  -2.6   -0.056       nu:  0.46      0.1)
+   Group converged on 10th try         (mu:  -2.6227   -0.056411       nu:  0.4609     0.10349)
+   Calculating BIC via samples
+Model 6 - bpi01       [21:13] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',288,1)">a1c_hierarfit_models at 288</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-1.9612 -3.6056 -0.8549]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-2.0260 -2.2920 0.1335]
+     nu: [142.0417 910.4519 125.4774]
+    nui: [3x3 double]
+
+Couldn't fit p17_SJ at all for  bpi01 (>3 attempts)
+         Attempting group fit (within EV): 10th try         (mu:  -2.3     -3.3   -0.034       nu:  0.61        1    0.087)
+   Group converged on 13th try         (mu:  -2.3108     -3.3137   -0.033607       nu:  0.60708      1.0174    0.086513)
+   Calculating BIC via samples
+Model 7 - bmi01       [21:20] ##############
+Requested iteration #1 --------------------------------------------------------
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',278,1)">a1c_hierarfit_models at 278</a>} 
+{Warning: Matrix is singular to working precision.} 
+{> In <a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',288,1)">a1c_hierarfit_models at 288</a>} 
+   Altering Z    (1th ev step)
+     original Z:
+     mu: [-3.2631 -1.7404 -0.4179]
+     nu: [Inf Inf Inf]
+    nui: [3x3 double]
+
+     NewZ:
+     mu: [-3.1628 -2.0691 -0.3545]
+     nu: [4.1424 0.4806 0.1677]
+    nui: [3x3 double]
+
+   Group converged on 6th try         (mu:  -2.5237     -2.0321    -0.34404       nu:  0.3603     0.45732     0.13755)
+   Calculating BIC via samples
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('clearvars', '/Applications/MATLAB_R2012a.app/toolbox/matlab/general/clearvars.m', 93)" style="font-weight:bold">clearvars</a>
+(<a href="matlab: opentoline('/Applications/MATLAB_R2012a.app/toolbox/matlab/general/clearvars.m',93,0)">line 93</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('bmi01', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/bmi/bmi01.m', 72)" style="font-weight:bold">bmi01</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/1 Value functions/bmi/bmi01.m',72,0)">line 72</a>)
+clearvars EV_NoSee EnvThreat ExploreCost
+FixedLoss NTok V_AccGivNoSee data_cF nT_cF
+pAccGivNoBombSeen pActBomb posVacc posVrej
+ppActBomb ppABscaled
+
+In <a href="matlab:helpUtils.errorDocCallback('f_nllsoftmax', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax.m', 34)" style="font-weight:bold">f_nllsoftmax</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/f_nllsoftmax.m',34,0)">line 34</a>)
+eval(['V=' ValueFxn '(x, {[] data, fPar,col});'])
+
+In <a href="matlab:helpUtils.errorDocCallback('a1c_hierarfit_models', '/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m', 368)" style="font-weight:bold">a1c_hierarfit_models</a> (<a href="matlab: opentoline('/Users/EleanorL/Dropbox/SCRIPPS/2 Explore experiment/3 Analysis/4 Fit computational models/a1c_hierarfit_models.m',368,0)">line 368</a>)
+                    if
+                    strcmp(details.models{m,1}(2),
+                    'p')==1  % Calculate nLL for
+                    sampled subject-parameters
+} 
+a1c_hierarfit_models_RUN
